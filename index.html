@@ -220,32 +220,34 @@
         const markers = filteredBalades.map(balade => {
           return L.marker([balade.lat, balade.lng])
             .bindPopup(`
-              <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; width: 280px; max-width: 90vw;">
+              <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; overflow: hidden;">
                 ${balade.image ? `
-                  <img
-                    src="${balade.image}"
-                    alt="${balade.titre || balade.balade}"
-                    style="width: 100%; height: 160px; object-fit: cover; border-radius: 4px 4px 0 0; margin: -15px -20px 12px -20px;"
-                    onerror="this.style.display='none'"
-                  />
+                  <div style="width: calc(100% + 40px); height: 170px; margin: -15px -20px 0 -20px; overflow: hidden;">
+                    <img
+                      src="${balade.image}"
+                      alt="${balade.titre || balade.balade}"
+                      style="width: 100%; height: 100%; object-fit: cover; display: block;"
+                      onerror="this.parentElement.style.display='none'"
+                    />
+                  </div>
                 ` : ''}
-                <div style="padding: ${balade.image ? '0' : '4px 0'};">
+                <div style="padding: ${balade.image ? '14px 0 6px 0' : '6px 0'};">
                   ${balade.surtitre ? `
-                    <div style="font-size: 11px; text-transform: uppercase; color: #666; letter-spacing: 0.5px; margin-bottom: 4px; font-weight: 600;">
+                    <div style="font-size: 11px; text-transform: uppercase; color: #999; letter-spacing: 0.5px; margin-bottom: 6px; font-weight: 600;">
                       ${balade.surtitre}
                     </div>
                   ` : ''}
-                  <h3 style="font-size: 16px; font-weight: 700; margin: 0 0 8px 0; line-height: 1.3; color: #1a1a1a;">
+                  <h3 style="font-size: 17px; font-weight: 600; margin: 0 0 8px 0; line-height: 1.3; color: #1a1a1a;">
                     ${balade.titre || balade.balade}
                   </h3>
                   ${balade.chapo ? `
-                    <p style="font-size: 13px; color: #4a4a4a; line-height: 1.5; margin: 0 0 12px 0; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;">
+                    <p style="font-size: 13px; color: #666; line-height: 1.5; margin: 0 0 14px 0;">
                       ${balade.chapo}
                     </p>
                   ` : ''}
-                  <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 12px; padding-top: 12px; border-top: 1px solid #e5e5e5;">
-                    <div style="font-size: 12px; color: #666;">
-                      ${balade.auteur ? `<span style="font-weight: 500;">${balade.auteur}</span> · ` : ''}
+                  <div style="padding-top: 12px; border-top: 1px solid #e5e5e5; margin-bottom: 12px;">
+                    <div style="font-size: 12px; color: #999;">
+                      ${balade.auteur ? `<span style="color: #666; font-weight: 500;">${balade.auteur}</span> · ` : ''}
                       <span>${balade.date}</span>
                     </div>
                   </div>
@@ -254,7 +256,7 @@
                       href="${balade.lien}"
                       target="_blank"
                       rel="noopener noreferrer"
-                      style="display: block; margin-top: 12px; padding: 8px 16px; background: #1a1a1a; color: white; text-align: center; text-decoration: none; border-radius: 4px; font-size: 13px; font-weight: 600; transition: background 0.2s;"
+                      style="display: inline-block; padding: 8px 16px; background: #1a1a1a; color: white; text-align: center; text-decoration: none; border-radius: 4px; font-size: 13px; font-weight: 500; transition: background 0.2s;"
                       onmouseover="this.style.background='#333'"
                       onmouseout="this.style.background='#1a1a1a'"
                     >
@@ -264,7 +266,11 @@
                 </div>
               </div>
             `, {
-              maxWidth: 300,
+              maxWidth: 320,
+              minWidth: 280,
+              maxHeight: 600,
+              autoPan: true,
+              autoPanPadding: [50, 50],
               className: 'custom-popup'
             });
         });
@@ -301,7 +307,13 @@
               React.createElement('select', {
                 value: selectedDistrict,
                 onChange: (e) => setSelectedDistrict(e.target.value),
-                className: 'px-4 py-2 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-gray-200 bg-white'
+                className: 'px-5 py-3 border-2 border-black rounded-none font-semibold text-sm uppercase tracking-wide focus:outline-none focus:bg-gray-50 bg-white appearance-none cursor-pointer',
+                style: {
+                  backgroundImage: 'url("data:image/svg+xml,%3Csvg width=\'12\' height=\'8\' viewBox=\'0 0 12 8\' fill=\'none\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Cpath d=\'M1 1L6 6L11 1\' stroke=\'black\' stroke-width=\'2\' stroke-linecap=\'round\' stroke-linejoin=\'round\'/%3E%3C/svg%3E")',
+                  backgroundRepeat: 'no-repeat',
+                  backgroundPosition: 'right 1rem center',
+                  paddingRight: '3rem'
+                }
               },
                 FILTER_OPTIONS.map(opt =>
                   React.createElement('option', {
@@ -312,7 +324,9 @@
                 )
               ),
               React.createElement('span', { className: 'text-sm text-gray-600' },
-                `${filteredCount} balade${filteredCount > 1 ? 's' : ''} affichée${filteredCount > 1 ? 's' : ''}`
+                selectedDistrict === 'all'
+                  ? `${balades.length} balade${balades.length > 1 ? 's' : ''} affichée${balades.length > 1 ? 's' : ''}`
+                  : `${filteredCount} balade${filteredCount > 1 ? 's' : ''} sur les ${balades.length} affichée${filteredCount > 1 ? 's' : ''}`
               )
             )
           )
