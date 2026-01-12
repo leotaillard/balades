@@ -4,426 +4,792 @@
     "balade": "Tour du Niremont",
     "district": "Veveyse",
     "lat": 46.5233,
-    "lng": 6.8642
+    "lng": 6.8642,
+    "titre": "Le tour du Niremont, une boucle familiale",
+    "surtitre": "Randonnée en Veveyse",
+    "chapo": "Cette balade accessible offre une vue panoramique sur la région de la Veveyse et les Préalpes fribourgeoises. Un parcours idéal pour toute la famille.",
+    "auteur": "Marie Dupont",
+    "image": "https://picsum.photos/seed/niremont/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/tour-niremont"
   },
   {
     "date": "22.10.24",
     "balade": "Tour de la Molière, Murist",
     "district": "Broye",
     "lat": 46.8833,
-    "lng": 7.0
+    "lng": 7.0,
+    "titre": "La Molière de Murist, perle de la Broye",
+    "surtitre": "Découverte en Broye",
+    "chapo": "Au cœur de la campagne broyarde, cette tour historique domine la région et offre un point de vue exceptionnel sur le lac de Neuchâtel.",
+    "auteur": "Jean-Luc Martin",
+    "image": "https://picsum.photos/seed/moliere/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/moliere-murist"
   },
   {
     "date": "29.10.25",
     "balade": "Romont, ville",
     "district": "Glâne",
     "lat": 46.6942,
-    "lng": 6.9172
+    "lng": 6.9172,
+    "titre": "Romont, cité médiévale et son château",
+    "surtitre": "Patrimoine glânois",
+    "chapo": "Découvrez les ruelles pavées de cette charmante cité médiévale, son château et son célèbre musée du vitrail. Un voyage dans le temps.",
+    "auteur": "Sophie Laurent",
+    "image": "https://picsum.photos/seed/romont/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/romont-ville"
   },
   {
     "date": "05.11.24",
     "balade": "Marais de Garmiswil",
     "district": "Singine",
     "lat": 46.8667,
-    "lng": 7.35
+    "lng": 7.35,
+    "titre": "Les marais de Garmiswil, un écrin de nature",
+    "surtitre": "Nature en Singine",
+    "chapo": "Zone protégée d'importance nationale, ce marais abrite une faune et une flore exceptionnelles. Un parcours didactique pour petits et grands.",
+    "auteur": "Thomas Berger",
+    "image": "https://picsum.photos/seed/garmiswil/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/marais-garmiswil"
   },
   {
     "date": "12.11.24",
     "balade": "Tour du lac de Lessoc",
     "district": "Gruyère",
     "lat": 46.5333,
-    "lng": 7.0833
+    "lng": 7.0833,
+    "titre": "Le lac de Lessoc, miroir des Préalpes",
+    "surtitre": "Balade en Gruyère",
+    "chapo": "Ce lac de barrage niché au pied des Préalpes offre un cadre idyllique. Une boucle facile et accessible pour admirer les reflets des montagnes.",
+    "auteur": "Pierre Fontaine",
+    "image": "https://picsum.photos/seed/lessoc/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/lac-lessoc"
   },
   {
     "date": "19.11.24",
     "balade": "Cousimbert",
     "district": "Gruyère",
     "lat": 46.6167,
-    "lng": 7.05
+    "lng": 7.05,
+    "titre": "Cousimbert, village typiquement gruérien",
+    "surtitre": "Authenticité gruérienne",
+    "chapo": "Explorez ce village préservé et ses sentiers champêtres qui serpentent entre les chalets traditionnels et les pâturages verdoyants.",
+    "auteur": "Anne Rossier",
+    "image": "https://picsum.photos/seed/cousimbert/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/cousimbert"
   },
   {
     "date": "26.11.24",
     "balade": "Forêt La Chanéaz, Montagny",
     "district": "Broye",
     "lat": 46.7833,
-    "lng": 7.0167
+    "lng": 7.0167,
+    "titre": "La forêt de la Chanéaz, poumon vert de la Broye",
+    "surtitre": "Escapade forestière",
+    "chapo": "Immersion totale dans cette forêt majestueuse où les chemins ombragés invitent à la contemplation et à la découverte de la biodiversité locale.",
+    "auteur": "Marc Delacroix",
+    "image": "https://picsum.photos/seed/chaneaz/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/foret-chaneaz"
   },
   {
     "date": "29.11.24",
     "balade": "Parcours ludique à Romont",
     "district": "Glâne",
     "lat": 46.6942,
-    "lng": 6.9172
+    "lng": 6.9172,
+    "titre": "Parcours ludique pour les familles à Romont",
+    "surtitre": "Sortie familiale",
+    "chapo": "Un parcours ponctué de jeux et d'énigmes pour découvrir la ville de manière interactive. Les enfants adorent cette chasse au trésor urbaine.",
+    "auteur": "Julie Perrin",
+    "image": "https://picsum.photos/seed/romontludique/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/parcours-ludique-romont"
   },
   {
     "date": "03.12.25",
     "balade": "Boucle à Belfaux",
     "district": "Sarine",
     "lat": 46.8333,
-    "lng": 7.1833
+    "lng": 7.1833,
+    "titre": "Belfaux et ses sentiers campagnards",
+    "surtitre": "Promenade en Sarine",
+    "chapo": "Une boucle douce à travers champs et bosquets, offrant de belles vues sur la vallée de la Sarine et les collines environnantes.",
+    "auteur": "François Weber",
+    "image": "https://picsum.photos/seed/belfaux/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/boucle-belfaux"
   },
   {
     "date": "10.12.24",
     "balade": "Lac de Montsalvens",
     "district": "Gruyère",
     "lat": 46.5833,
-    "lng": 7.1333
+    "lng": 7.1333,
+    "titre": "Le lac de Montsalvens, joyau gruérien",
+    "surtitre": "Escapade aquatique",
+    "chapo": "Ce lac artificiel aux eaux turquoise est entouré de forêts et de montagnes. Un lieu paisible pour une randonnée ressourçante.",
+    "auteur": "Claire Morand",
+    "image": "https://picsum.photos/seed/montsalvens/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/lac-montsalvens"
   },
   {
     "date": "24.12.24",
     "balade": "Sentier Ritter, Fribourg",
     "district": "Sarine",
     "lat": 46.8062,
-    "lng": 7.1608
+    "lng": 7.1608,
+    "titre": "Le sentier Ritter, poumon vert de la capitale",
+    "surtitre": "Nature urbaine",
+    "chapo": "En plein cœur de Fribourg, ce sentier bucolique longe la Sarine et offre une échappée nature à deux pas du centre-ville.",
+    "auteur": "David Schmid",
+    "image": "https://picsum.photos/seed/ritter/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/sentier-ritter"
   },
   {
     "date": "07.01.25",
     "balade": "Oberbach Trail (dép. Jaun)",
     "district": "Gruyère",
     "lat": 46.6,
-    "lng": 7.2833
+    "lng": 7.2833,
+    "titre": "L'Oberbach Trail, sentier sauvage de Jaun",
+    "surtitre": "Aventure alpine",
+    "chapo": "Un parcours spectaculaire qui serpente le long de torrents alpins et à travers des paysages préservés. Pour randonneurs avertis.",
+    "auteur": "Sébastien Gross",
+    "image": "https://picsum.photos/seed/oberbach/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/oberbach-trail"
   },
   {
     "date": "14.01.25",
     "balade": "Barrage de Rossens",
     "district": "Sarine",
     "lat": 46.7167,
-    "lng": 7.0833
+    "lng": 7.0833,
+    "titre": "Le barrage de Rossens et son lac",
+    "surtitre": "Ouvrage emblématique",
+    "chapo": "Découvrez cette impressionnante infrastructure et profitez des sentiers qui longent le lac artificiel aux teintes émeraude.",
+    "auteur": "Nathalie Käser",
+    "image": "https://picsum.photos/seed/rossens/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/barrage-rossens"
   },
   {
     "date": "21.01.25",
     "balade": "Mont-Vully",
     "district": "Lac",
     "lat": 46.9667,
-    "lng": 7.0833
+    "lng": 7.0833,
+    "titre": "Le Mont-Vully, belvédère sur les trois lacs",
+    "surtitre": "Panorama exceptionnel",
+    "chapo": "Cette colline viticole offre une vue imprenable sur les lacs de Morat, Neuchâtel et Bienne. Un incontournable de la région.",
+    "auteur": "Laurent Pythoud",
+    "image": "https://picsum.photos/seed/vully/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/mont-vully"
   },
   {
     "date": "28.01.25",
     "balade": "Solalex, Alpes vaudoises",
     "district": "Vaud",
     "lat": 46.2833,
-    "lng": 7.0333
+    "lng": 7.0333,
+    "titre": "Solalex, vallée sauvage des Alpes vaudoises",
+    "surtitre": "Haute montagne",
+    "chapo": "Un cirque naturel grandiose entouré de sommets imposants. Une randonnée alpine pour les amoureux de grands espaces.",
+    "auteur": "Emma Favre",
+    "image": "https://picsum.photos/seed/solalex/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/solalex"
   },
   {
     "date": "04.02.25",
     "balade": "Hauterive et bois de Monterban",
     "district": "Sarine",
     "lat": 46.7833,
-    "lng": 7.1667
+    "lng": 7.1667,
+    "titre": "Hauterive et les mystères du bois de Monterban",
+    "surtitre": "Forêt enchantée",
+    "chapo": "Parcourez les sentiers de cette forêt mystérieuse et découvrez le village pittoresque d'Hauterive niché au bord de la Sarine.",
+    "auteur": "Vincent Chappuis",
+    "image": "https://picsum.photos/seed/hauterive/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/hauterive-monterban"
   },
   {
     "date": "11.02.25",
     "balade": "Cressier-Courtepin",
     "district": "Lac",
     "lat": 46.9333,
-    "lng": 7.05
+    "lng": 7.05,
+    "titre": "De Cressier à Courtepin, entre vignes et lacs",
+    "surtitre": "Terroir lacustre",
+    "chapo": "Un itinéraire champêtre qui traverse vignobles et villages authentiques, avec vue sur le lac de Morat et les Alpes.",
+    "auteur": "Isabelle Brandt",
+    "image": "https://picsum.photos/seed/cressier/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/cressier-courtepin"
   },
   {
     "date": "18.02.25",
     "balade": "Les Mosses",
     "district": "Vaud",
     "lat": 46.3833,
-    "lng": 7.1
+    "lng": 7.1,
+    "titre": "Les Mosses, plateau alpin à deux pas de Fribourg",
+    "surtitre": "Station familiale",
+    "chapo": "Station de ski l'hiver, terrain de randonnée l'été. Les Mosses offrent un cadre alpin accessible et des paysages à couper le souffle.",
+    "auteur": "Damien Gremaud",
+    "image": "https://picsum.photos/seed/mosses/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/les-mosses"
   },
   {
     "date": "25.02.25",
     "balade": "Tine de Conflens (Morges)",
     "district": "Vaud",
     "lat": 46.4167,
-    "lng": 6.4667
+    "lng": 6.4667,
+    "titre": "La Tine de Conflens, gorges spectaculaires",
+    "surtitre": "Phénomène naturel",
+    "chapo": "Admirez la puissance de l'eau qui a sculpté ces impressionnantes gorges. Un spectacle naturel fascinant au confluent de deux rivières.",
+    "auteur": "Caroline Huber",
+    "image": "https://picsum.photos/seed/tineconflens/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/tine-conflens"
   },
   {
     "date": "04.03.25",
     "balade": "La Loutze (au-dessus d'Ovronnaz)",
     "district": "Valais",
     "lat": 46.1167,
-    "lng": 7.2
+    "lng": 7.2,
+    "titre": "La Loutze, belvédère sur la vallée du Rhône",
+    "surtitre": "Valais panoramique",
+    "chapo": "Une randonnée alpine qui culmine à 2000 mètres, offrant une vue plongeante sur la vallée du Rhône et les Alpes bernoises.",
+    "auteur": "Alexandre Berthoud",
+    "image": "https://picsum.photos/seed/loutze/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/loutze-ovronnaz"
   },
   {
     "date": "11.03.25",
     "balade": "Heitenried",
     "district": "Singine",
     "lat": 46.8667,
-    "lng": 7.2833
+    "lng": 7.2833,
+    "titre": "Heitenried, charme rural de la Singine",
+    "surtitre": "Campagne singinoise",
+    "chapo": "Découvrez ce village typique de la Singine et ses sentiers bucoliques qui serpentent entre fermes traditionnelles et pâturages.",
+    "auteur": "Brigitte Aebischer",
+    "image": "https://picsum.photos/seed/heitenried/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/heitenried"
   },
   {
     "date": "18.03.25",
     "balade": "Loèches-les-Bains",
     "district": "Valais",
     "lat": 46.3833,
-    "lng": 7.6333
+    "lng": 7.6333,
+    "titre": "Loèches-les-Bains, station thermale alpine",
+    "surtitre": "Bien-être en altitude",
+    "chapo": "Randonnée au départ de cette station thermale réputée, entre forêts de mélèzes et alpages fleuris. Détente et nature garanties.",
+    "auteur": "Sylvie Reymond",
+    "image": "https://picsum.photos/seed/loeche/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/loeches-bains"
   },
   {
     "date": "25.03.25",
     "balade": "Semsales",
     "district": "Veveyse",
     "lat": 46.5667,
-    "lng": 6.9167
+    "lng": 6.9167,
+    "titre": "Semsales, capitale de la Veveyse",
+    "surtitre": "Patrimoine veveysannais",
+    "chapo": "Explorez ce bourg de la Veveyse et ses alentours verdoyants, entre tradition fromagère et paysages préalpins.",
+    "auteur": "Cédric Progin",
+    "image": "https://picsum.photos/seed/semsales/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/semsales"
   },
   {
     "date": "01.04.25",
     "balade": "Montbovon – Les Allières",
     "district": "Gruyère",
     "lat": 46.4833,
-    "lng": 7.0667
+    "lng": 7.0667,
+    "titre": "De Montbovon aux Allières, vallée authentique",
+    "surtitre": "Haute-Gruyère",
+    "chapo": "Un parcours bucolique dans la vallée de l'Intyamon, loin de l'agitation, au cœur d'une nature préservée et authentique.",
+    "auteur": "Grégoire Sottas",
+    "image": "https://picsum.photos/seed/montbovon/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/montbovon-allieres"
   },
   {
     "date": "15.04.25",
     "balade": "Morat, son lac et Mont-Vully",
     "district": "Lac",
     "lat": 46.9667,
-    "lng": 7.0833
+    "lng": 7.0833,
+    "titre": "Morat, cité médiévale au bord du lac",
+    "surtitre": "Patrimoine lacustre",
+    "chapo": "Découvrez les remparts médiévaux de Morat, promenez-vous sur les rives du lac et grimpez au Mont-Vully pour un panorama à 360°.",
+    "auteur": "Patricia Jungo",
+    "image": "https://picsum.photos/seed/morat/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/morat-lac-vully"
   },
   {
     "date": "22.04.25",
     "balade": "Fuchses Schwyberg",
     "district": "Singine",
     "lat": 46.8,
-    "lng": 7.3167
+    "lng": 7.3167,
+    "titre": "Le Fuchses Schwyberg, sommet singinois",
+    "surtitre": "Point de vue singulier",
+    "chapo": "Ascension vers ce sommet boisé qui offre une vue dégagée sur les Préalpes fribourgeoises et la campagne environnante.",
+    "auteur": "Hans Lehmann",
+    "image": "https://picsum.photos/seed/fuchses/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/fuchses-schwyberg"
   },
   {
     "date": "29.04.25",
     "balade": "Bois de la Croix et forêt de l'Etat entre Belfaux et Grolley",
     "district": "Sarine",
     "lat": 46.8333,
-    "lng": 7.1833
+    "lng": 7.1833,
+    "titre": "Forêts de Belfaux et Grolley",
+    "surtitre": "Patrimoine forestier",
+    "chapo": "Parcourez ces vastes forêts qui abritent une biodiversité remarquable. Sentiers ombragés et tranquillité assurée.",
+    "auteur": "Stéphane Berset",
+    "image": "https://picsum.photos/seed/belfauxforet/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/forets-belfaux-grolley"
   },
   {
     "date": "06.05.25",
     "balade": "Guggisberg",
     "district": "Singine",
     "lat": 46.7667,
-    "lng": 7.3333
+    "lng": 7.3333,
+    "titre": "Guggisberg, terre de fromages",
+    "surtitre": "Tradition fromagère",
+    "chapo": "Région réputée pour son fromage AOP, Guggisberg offre aussi de magnifiques randonnées entre alpages et forêts d'épicéas.",
+    "auteur": "Ursula Schwarz",
+    "image": "https://picsum.photos/seed/guggisberg/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/guggisberg"
   },
   {
     "date": "13.05.25",
     "balade": "Dent de Jaman",
     "district": "Vaud",
     "lat": 46.45,
-    "lng": 6.9167
+    "lng": 6.9167,
+    "titre": "La Dent de Jaman, balcon sur le Léman",
+    "surtitre": "Sommet emblématique",
+    "chapo": "Ascension vers ce sommet iconique qui domine le lac Léman. Vue spectaculaire sur les Alpes et le lac à 360 degrés.",
+    "auteur": "Olivier Vonlanthen",
+    "image": "https://picsum.photos/seed/dentjaman/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/dent-jaman"
   },
   {
     "date": "19.05.25",
     "balade": "Estavayer-le-Lac",
     "district": "Broye",
     "lat": 46.8494,
-    "lng": 6.8465
+    "lng": 6.8465,
+    "titre": "Estavayer-le-Lac, perle médiévale",
+    "surtitre": "Cité lacustre",
+    "chapo": "Flânez dans les ruelles de cette cité médiévale au bord du lac de Neuchâtel. Architecture préservée et ambiance authentique.",
+    "auteur": "Véronique Collaud",
+    "image": "https://picsum.photos/seed/estavayer/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/estavayer-lac"
   },
   {
     "date": "26.05.25",
     "balade": "Parc du Gantrisch",
     "district": "Canton de Berne",
     "lat": 46.7167,
-    "lng": 7.4167
+    "lng": 7.4167,
+    "titre": "Le Gantrisch, parc naturel régional",
+    "surtitre": "Nature préservée",
+    "chapo": "Explorez ce parc naturel aux paysages variés : tourbières, forêts, alpages et sommets. Un paradis pour les randonneurs.",
+    "auteur": "Christine Roth",
+    "image": "https://picsum.photos/seed/gantrisch/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/parc-gantrisch"
   },
   {
     "date": "03.06.25",
     "balade": "A vélo entre Fribourg et Morat",
     "district": "Sarine et Lac",
     "lat": 46.8062,
-    "lng": 7.1608
+    "lng": 7.1608,
+    "titre": "Véloroute Fribourg-Morat",
+    "surtitre": "Itinéraire cyclable",
+    "chapo": "Parcours cyclable familial qui relie les deux cités historiques en longeant lacs, forêts et villages pittoresques.",
+    "auteur": "Raphaël Glasson",
+    "image": "https://picsum.photos/seed/velofribourg/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/velo-fribourg-morat"
   },
   {
     "date": "10.06.25",
     "balade": "Boucle entre Posat et Ecuvillens",
     "district": "Sarine",
     "lat": 46.7667,
-    "lng": 7.1333
+    "lng": 7.1333,
+    "titre": "Posat-Ecuvillens, campagne sarinoise",
+    "surtitre": "Balade champêtre",
+    "chapo": "Une boucle tranquille à travers la campagne fribourgeoise, entre champs cultivés et petits bosquets.",
+    "auteur": "Joëlle Vonlanthen",
+    "image": "https://picsum.photos/seed/posat/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/posat-ecuvillens"
   },
   {
     "date": "17.06.25",
     "balade": "Lac Renaud aux Diablerets",
     "district": "Vaud",
     "lat": 46.35,
-    "lng": 7.2
+    "lng": 7.2,
+    "titre": "Le lac Renaud, joyau alpin des Diablerets",
+    "surtitre": "Haute montagne",
+    "chapo": "Lac d'altitude niché dans un cirque majestueux. Une randonnée alpine exigeante mais récompensée par un cadre exceptionnel.",
+    "auteur": "Michel Monney",
+    "image": "https://picsum.photos/seed/lacrenaud/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/lac-renaud"
   },
   {
     "date": "24.06.25",
     "balade": "Tour du lac de Morat à vélo",
     "district": "Lac",
     "lat": 46.9271,
-    "lng": 7.1147
+    "lng": 7.1147,
+    "titre": "Tour cycliste du lac de Morat",
+    "surtitre": "Boucle lacustre",
+    "chapo": "Parcours cyclable plat et familial qui fait le tour complet du lac de Morat. Paysages lacustres et villages authentiques.",
+    "auteur": "Daniel Cuennet",
+    "image": "https://picsum.photos/seed/velomorat/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/velo-tour-morat"
   },
   {
     "date": "01.07.25",
     "balade": "dans les bois de Belle-Croix et de Moncor",
     "district": "Sarine",
     "lat": 46.8,
-    "lng": 7.1333
+    "lng": 7.1333,
+    "titre": "Forêts de Belle-Croix et Moncor",
+    "surtitre": "Escapade forestière",
+    "chapo": "Promenade ombragée dans ces bois qui bordent la périphérie fribourgeoise. Idéal pour une pause nature en famille.",
+    "auteur": "Françoise Brodard",
+    "image": "https://picsum.photos/seed/bellecroix/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/bois-bellecroix-moncor"
   },
   {
     "date": "08.07.25",
     "balade": "en paddle au départ de Pensier, sur le lac de Schiffenen",
     "district": "Lac",
     "lat": 46.9167,
-    "lng": 7.1333
+    "lng": 7.1333,
+    "titre": "Paddle sur le lac de Schiffenen",
+    "surtitre": "Sport nautique",
+    "chapo": "Découvrez le lac de Schiffenen en paddle. Une activité rafraîchissante pour explorer ce plan d'eau entouré de forêts.",
+    "auteur": "Yann Buchs",
+    "image": "https://picsum.photos/seed/paddleschiffenen/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/paddle-schiffenen"
   },
   {
     "date": "15.07.25",
     "balade": "A Sorens, à la découverte des sculptures en bois",
     "district": "Gruyère",
     "lat": 46.6667,
-    "lng": 7.05
+    "lng": 7.05,
+    "titre": "Sorens et ses sculptures en bois",
+    "surtitre": "Art et nature",
+    "chapo": "Parcours artistique à travers le village et ses environs, ponctué d'œuvres sculptées dans le bois par des artistes locaux.",
+    "auteur": "Fabienne Boschung",
+    "image": "https://picsum.photos/seed/sorens/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/sorens-sculptures"
   },
   {
     "date": "22.07.25",
     "balade": "lac de Seeberg",
     "district": "Canton de Berne",
     "lat": 47.1667,
-    "lng": 7.6667
+    "lng": 7.6667,
+    "titre": "Le lac de Seeberg, oasis de tranquillité",
+    "surtitre": "Lac bernois",
+    "chapo": "Petit lac paisible entouré de forêts, parfait pour une randonnée familiale et une pause pique-nique au bord de l'eau.",
+    "auteur": "Martin Schneider",
+    "image": "https://picsum.photos/seed/seeberg/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/lac-seeberg"
   },
   {
     "date": "19.08.25",
     "balade": "La descente du Rhône en paddle, depuis le Centre-Ville de Genève",
     "district": "Canton de Genève",
     "lat": 46.2044,
-    "lng": 6.1432
+    "lng": 6.1432,
+    "titre": "Descente du Rhône en paddle à Genève",
+    "surtitre": "Aventure urbaine",
+    "chapo": "Expérience unique en paddle sur le Rhône au départ du centre-ville. Admirez Genève depuis le fleuve.",
+    "auteur": "Alain Perret",
+    "image": "https://picsum.photos/seed/paddlerhone/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/paddle-rhone-geneve"
   },
   {
     "date": "26.08.25",
     "balade": "Le lac de Derborence",
     "district": "Valais",
     "lat": 46.2833,
-    "lng": 7.2333
+    "lng": 7.2333,
+    "titre": "Derborence, lac mystérieux du Valais",
+    "surtitre": "Site protégé",
+    "chapo": "Lac sauvage né d'un éboulement, entouré de forêts vierges. Un lieu chargé d'histoire et de mystère.",
+    "auteur": "Bernard Carron",
+    "image": "https://picsum.photos/seed/derborence/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/lac-derborence"
   },
   {
     "date": "02.09.25",
     "balade": "La pointe de Greng, sur l'unique presqu'île du lac de Morat",
     "district": "Lac",
     "lat": 46.9271,
-    "lng": 7.1147
+    "lng": 7.1147,
+    "titre": "Pointe de Greng, presqu'île lacustre",
+    "surtitre": "Réserve naturelle",
+    "chapo": "Promenade sur cette langue de terre qui s'avance dans le lac de Morat. Zone protégée idéale pour observer les oiseaux.",
+    "auteur": "Sandrine Kolly",
+    "image": "https://picsum.photos/seed/greng/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/pointe-greng"
   },
   {
     "date": "09.09.25",
     "balade": "Autour de Romainmôtier et Croy pour une balade bucolique, avec une cascade",
     "district": "Vaud",
     "lat": 46.6939,
-    "lng": 6.47
+    "lng": 6.47,
+    "titre": "Romainmôtier-Croy, entre patrimoine et cascade",
+    "surtitre": "Jura vaudois",
+    "chapo": "Découvrez l'abbaye millénaire de Romainmôtier et la cascade du Nozon dans un cadre verdoyant et paisible.",
+    "auteur": "Philippe Maillard",
+    "image": "https://picsum.photos/seed/romainmotier/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/romainmotier-croy"
   },
   {
     "date": "16.09.25",
     "balade": "A Marly, le long de la Gérine",
     "district": "Sarine",
     "lat": 46.7833,
-    "lng": 7.1667
+    "lng": 7.1667,
+    "titre": "Marly et les gorges de la Gérine",
+    "surtitre": "Nature sauvage",
+    "chapo": "Suivez le cours tumultueux de la Gérine à travers ses gorges spectaculaires. Un coin de nature sauvage aux portes de Fribourg.",
+    "auteur": "Audrey Zbinden",
+    "image": "https://picsum.photos/seed/marly/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/marly-gerine"
   },
   {
     "date": "23.09.25",
     "balade": "Lauenensee, entre chalets et lac",
     "district": "Canton de Berne",
     "lat": 46.4,
-    "lng": 7.3333
+    "lng": 7.3333,
+    "titre": "Le Lauenensee, perle du Simmental",
+    "surtitre": "Idylle alpine",
+    "chapo": "Lac de montagne enchanteur entouré de chalets traditionnels et de sommets alpins. Un décor de carte postale.",
+    "auteur": "André Kilchenmann",
+    "image": "https://picsum.photos/seed/lauenen/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/lauenensee"
   },
   {
     "date": "30.09.25",
     "balade": "depuis First à Grindelwald, à la découverte du lac de Bachalp",
     "district": "Canton de Berne",
     "lat": 46.6236,
-    "lng": 8.0411
+    "lng": 8.0411,
+    "titre": "Lac de Bachalp, miroir face à l'Eiger",
+    "surtitre": "Panorama alpin",
+    "chapo": "Depuis First, randonnez jusqu'à ce lac mythique qui reflète les faces nord de l'Eiger, du Mönch et de la Jungfrau.",
+    "auteur": "Stefan Müller",
+    "image": "https://picsum.photos/seed/bachalp/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/lac-bachalp"
   },
   {
     "date": "07.10.25",
     "balade": "Une boucle entre Fribourg, Givisiez et Villars-sur-Glâne",
     "district": "Sarine",
     "lat": 46.8062,
-    "lng": 7.1608
+    "lng": 7.1608,
+    "titre": "Boucle urbaine Fribourg-Givisiez-Villars",
+    "surtitre": "Randonnée périurbaine",
+    "chapo": "Circuit qui relie trois communes et traverse parcs, forêts et quartiers résidentiels. Idéal pour une sortie de proximité.",
+    "auteur": "Karine Aebischer",
+    "image": "https://picsum.photos/seed/bouclefribourg/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/boucle-fribourg-givisiez"
   },
   {
     "date": "14.10.25",
     "balade": "lac de Coudré, Grandvillard",
     "district": "Gruyère",
     "lat": 46.5333,
-    "lng": 7.1
+    "lng": 7.1,
+    "titre": "Le lac de Coudré, havre de paix gruérien",
+    "surtitre": "Lac de montagne",
+    "chapo": "Petit lac alpin niché dans un écrin de verdure. Un lieu propice à la contemplation et à la reconnexion avec la nature.",
+    "auteur": "Nicole Gachet",
+    "image": "https://picsum.photos/seed/coudre/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/lac-coudre"
   },
   {
     "date": "21.10.25",
     "balade": "Sur le sentier du Cerf à Concise",
     "district": "Vaud",
     "lat": 46.85,
-    "lng": 6.7833
+    "lng": 6.7833,
+    "titre": "Le sentier du Cerf à Concise",
+    "surtitre": "Balade didactique",
+    "chapo": "Parcours pédagogique qui sensibilise à la faune locale. Panneaux explicatifs et points d'observation jalonnent le sentier.",
+    "auteur": "Sylvain Banderet",
+    "image": "https://picsum.photos/seed/concise/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/sentier-cerf-concise"
   },
   {
     "date": "28.10.25",
     "balade": "Le tour de la Grande Cariçaie à vélo",
     "district": "Broye",
     "lat": 46.9,
-    "lng": 6.95
+    "lng": 6.95,
+    "titre": "Grande Cariçaie, plus grande roselière de Suisse",
+    "surtitre": "Biodiversité lacustre",
+    "chapo": "Parcours cyclable à travers cette zone humide exceptionnelle classée au patrimoine mondial. Observatoire privilégié de la faune.",
+    "auteur": "Didier Romanens",
+    "image": "https://picsum.photos/seed/caricaie/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/grande-caricaie"
   },
   {
     "date": "28.10.25",
     "balade": "Autour du lac de la Gruyère, au départ de Corbières, en passant par le sentier des légendes de la Gruyère",
     "district": "Gruyère",
     "lat": 46.5667,
-    "lng": 7.0333
+    "lng": 7.0333,
+    "titre": "Sentier des légendes de la Gruyère",
+    "surtitre": "Mythes et paysages",
+    "chapo": "Parcours enchanteur qui mêle légendes gruériennes et panoramas sur le lac. Panneaux illustrés racontent les histoires d'antan.",
+    "auteur": "Mélanie Ecoffey",
+    "image": "https://picsum.photos/seed/legendesgruyere/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/sentier-legendes-gruyere"
   },
   {
     "date": "04.11.25",
     "balade": "Montagne de Lussy",
     "district": "Glâne",
     "lat": 46.6833,
-    "lng": 6.9667
+    "lng": 6.9667,
+    "titre": "La Montagne de Lussy, entre Glâne et Veveyse",
+    "surtitre": "Plateau verdoyant",
+    "chapo": "Plateau campagnard qui offre de belles vues sur les Préalpes. Itinéraire paisible à travers pâturages et forêts clairsemées.",
+    "auteur": "Christian Blanchard",
+    "image": "https://picsum.photos/seed/lussy/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/montagne-lussy"
   },
   {
     "date": "11.11.25",
     "balade": "Calanques de Cassis",
     "district": "France, région PACA",
     "lat": 43.2146,
-    "lng": 5.5385
+    "lng": 5.5385,
+    "titre": "Les Calanques de Cassis, fjords méditerranéens",
+    "surtitre": "Escapade provençale",
+    "chapo": "Randonnée spectaculaire le long des falaises calcaires qui plongent dans la Méditerranée. Paysages à couper le souffle.",
+    "auteur": "Élodie Pasquier",
+    "image": "https://picsum.photos/seed/calanques/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/calanques-cassis"
   },
   {
     "date": "18.11.25",
     "balade": "sur la colline de Chaumont, sur les hauteurs de Neuchâtel",
     "district": "Neuchâtel",
     "lat": 46.8167,
-    "lng": 7.0667
+    "lng": 7.0667,
+    "titre": "Chaumont, balcon sur le lac de Neuchâtel",
+    "surtitre": "Point de vue neuchâtelois",
+    "chapo": "Ascension jusqu'à la tour de Chaumont pour un panorama exceptionnel sur les trois lacs et les Alpes.",
+    "auteur": "Laurent Girard",
+    "image": "https://picsum.photos/seed/chaumont/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/chaumont-neuchatel"
   },
   {
     "date": "25.11.25",
     "balade": "en Valais, au lieu-dit du Boup",
     "district": "Valais",
     "lat": 46.2667,
-    "lng": 7.3833
+    "lng": 7.3833,
+    "titre": "Le Boup, hameau authentique du Valais",
+    "surtitre": "Patrimoine valaisan",
+    "chapo": "Découvrez ce hameau traditionnel perché à flanc de montagne. Architecture typique et vues imprenables sur la vallée.",
+    "auteur": "Gabrielle Sauthier",
+    "image": "https://picsum.photos/seed/boup/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/boup-valais"
   },
   {
     "date": "02.12.25",
     "balade": "Un parcours de l'Avent à découvrir en famille au Crêt",
     "district": "Veveyse",
     "lat": 46.4667,
-    "lng": 6.9167
+    "lng": 6.9167,
+    "titre": "Parcours de l'Avent au Crêt",
+    "surtitre": "Magie de Noël",
+    "chapo": "Balade féerique ponctuée de décorations et d'animations pour célébrer l'Avent. Une tradition familiale incontournable.",
+    "auteur": "Fabienne Papaux",
+    "image": "https://picsum.photos/seed/aventcret/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/parcours-avent-cret"
   },
   {
     "date": "09.12.25",
     "balade": "Barrage de l'Hongrin",
     "district": "Vaud",
     "lat": 46.4667,
-    "lng": 7.0667
+    "lng": 7.0667,
+    "titre": "Le barrage de l'Hongrin, ouvrage alpin",
+    "surtitre": "Ingénierie en montagne",
+    "chapo": "Impressionnant barrage-voûte niché dans les Préalpes vaudoises. Randonnée autour du lac artificiel aux eaux turquoise.",
+    "auteur": "Jean-Marc Pittet",
+    "image": "https://picsum.photos/seed/hongrin/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/barrage-hongrin"
   },
   {
     "date": "16.12.25",
     "balade": "Pierrafortscha",
     "district": "Sarine",
     "lat": 46.7667,
-    "lng": 7.2
+    "lng": 7.2,
+    "titre": "Pierrafortscha, sommet des petites randonnées",
+    "surtitre": "Belvédère sarinois",
+    "chapo": "Petite montagne accessible qui offre un magnifique panorama sur Fribourg, la Sarine et les Préalpes.",
+    "auteur": "Corinne Mauron",
+    "image": "https://picsum.photos/seed/pierrafortscha/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/pierrafortscha"
   },
   {
     "date": "23.12.25",
     "balade": "le sommet du Chasseron",
     "district": "Vaud",
     "lat": 46.8667,
-    "lng": 6.5333
+    "lng": 6.5333,
+    "titre": "Le Chasseron, toit du Jura vaudois",
+    "surtitre": "Panorama jurassien",
+    "chapo": "Sommet emblématique du Jura offrant une vue à 360° sur les Alpes, les lacs et le Plateau. Restaurant d'altitude et antenne iconique.",
+    "auteur": "Thierry Golay",
+    "image": "https://picsum.photos/seed/chasseron/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/chasseron"
   },
   {
     "date": "30.12.25",
     "balade": "entre Aumont et Murist",
     "district": "Broye",
     "lat": 46.8833,
-    "lng": 7.0
+    "lng": 7.0,
+    "titre": "D'Aumont à Murist, campagne broyarde",
+    "surtitre": "Balade de fin d'année",
+    "chapo": "Circuit tranquille dans la Broye pour clôturer l'année en douceur. Paysages champêtres et villages authentiques.",
+    "auteur": "René Pasquier",
+    "image": "https://picsum.photos/seed/aumontmurist/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/aumont-murist"
   },
   {
     "date": "06.01.26",
     "balade": "sur le Mont-Vully au départ de Sugiez",
     "district": "Broye",
     "lat": 46.9667,
-    "lng": 7.1
+    "lng": 7.1,
+    "titre": "Mont-Vully depuis Sugiez",
+    "surtitre": "Première balade de l'année",
+    "chapo": "Commencez l'année en beauté avec cette ascension vers le Mont-Vully. Vue panoramique sur les trois lacs et traditions viticoles.",
+    "auteur": "Martine Roubaty",
+    "image": "https://picsum.photos/seed/vullysugiez/800/450",
+    "lien": "https://www.laliberte.ch/info-regionale/balades/vully-sugiez"
   }
 ]
