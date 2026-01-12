@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Carte des Balades - Suisse Romande</title>
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin="" />
+
+  <!-- Leaflet MarkerCluster CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    }
+    #map {
+      width: 100%;
+      height: 100%;
+    }
+    /* Fix for Leaflet marker icons */
+    .leaflet-default-icon-path {
+      background-image: url(https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png);
+    }
+    /* Style des clusters */
+    .marker-cluster-small {
+      background-color: rgba(110, 204, 57, 0.6);
+    }
+    .marker-cluster-small div {
+      background-color: rgba(110, 204, 57, 0.8);
+    }
+    .marker-cluster-medium {
+      background-color: rgba(240, 194, 12, 0.6);
+    }
+    .marker-cluster-medium div {
+      background-color: rgba(240, 194, 12, 0.8);
+    }
+    .marker-cluster-large {
+      background-color: rgba(241, 128, 23, 0.6);
+    }
+    .marker-cluster-large div {
+      background-color: rgba(241, 128, 23, 0.8);
+    }
+    .marker-cluster {
+      background-clip: padding-box;
+      border-radius: 20px;
+    }
+    .marker-cluster div {
+      width: 30px;
+      height: 30px;
+      margin-left: 5px;
+      margin-top: 5px;
+      text-align: center;
+      border-radius: 15px;
+      font: 12px "Helvetica Neue", Arial, Helvetica, sans-serif;
+      font-weight: bold;
+      color: white;
+      line-height: 30px;
+    }
+    /* Style pour les options avec séparateur */
+    select option.separator {
+      border-top: 1px solid #e5e7eb;
+      padding-top: 4px;
+      margin-top: 4px;
+    }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""></script>
+
+  <!-- Leaflet MarkerCluster JS -->
+  <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+
+  <!-- React App -->
+  <script type="module">
+    import React, { useState, useEffect, useRef } from 'https://esm.sh/react@18.2.0';
+    import ReactDOM from 'https://esm.sh/react-dom@18.2.0/client';
+
+    // Configuration
+    const GITHUB_JSON_URL = 'https://raw.githubusercontent.com/leotaillard/balades/main/balades.json';
+    const MAP_CENTER = [46.80, 7.15];
+    const MAP_ZOOM = 10;
+
+    // Options de filtre dans l'ordre exact spécifié
+    const FILTER_OPTIONS = [
+      { value: 'all', label: 'Tous les districts/cantons', group: 'default' },
+      // Districts Fribourg (alphabétique)
+      { value: 'Broye', label: 'Broye', group: 'fribourg', separator: true },
+      { value: 'Glâne', label: 'Glâne', group: 'fribourg' },
+      { value: 'Gruyère', label: 'Gruyère', group: 'fribourg' },
+      { value: 'Lac', label: 'Lac', group: 'fribourg' },
+      { value: 'Sarine', label: 'Sarine', group: 'fribourg' },
+      { value: 'Sarine et Lac', label: 'Sarine et Lac', group: 'fribourg' },
+      { value: 'Singine', label: 'Singine', group: 'fribourg' },
+      { value: 'Veveyse', label: 'Veveyse', group: 'fribourg' },
+      // Autres cantons (alphabétique)
+      { value: 'Canton de Berne', label: 'Canton de Berne', group: 'suisse', separator: true },
+      { value: 'Canton de Genève', label: 'Canton de Genève', group: 'suisse' },
+      { value: 'Neuchâtel', label: 'Neuchâtel', group: 'suisse' },
+      { value: 'Valais', label: 'Valais', group: 'suisse' },
+      { value: 'Vaud', label: 'Vaud', group: 'suisse' },
+      // Hors Suisse
+      { value: 'France, région PACA', label: 'France', group: 'hors-suisse', separator: true }
+    ];
+
+    function BaladeMap() {
+      const [balades, setBalades] = useState([]);
+      const [selectedDistrict, setSelectedDistrict] = useState('all');
+      const [loading, setLoading] = useState(true);
+      const [error, setError] = useState(null);
+      const [mapReady, setMapReady] = useState(false);
+      const mapRef = useRef(null);
+      const mapInstanceRef = useRef(null);
+      const clusterGroupRef = useRef(null);
+
+      // Chargement des données depuis GitHub
+      useEffect(() => {
+        fetch(GITHUB_JSON_URL)
+          .then(res => {
+            if (!res.ok) {
+              throw new Error('Erreur lors du chargement des données');
+            }
+            return res.json();
+          })
+          .then(data => {
+            setBalades(data);
+            setLoading(false);
+          })
+          .catch(err => {
+            setError(err.message);
+            setLoading(false);
+          });
+      }, []);
+
+      // Initialisation de la carte Leaflet
+      useEffect(() => {
+        if (!mapRef.current || mapInstanceRef.current) return;
+
+        // Attendre un peu pour que le DOM soit complètement prêt
+        setTimeout(() => {
+          // Créer la carte
+          const map = L.map(mapRef.current).setView(MAP_CENTER, MAP_ZOOM);
+
+          // Ajouter les tuiles OpenStreetMap
+          L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors',
+            maxZoom: 19
+          }).addTo(map);
+
+          // Forcer le recalcul de la taille de la carte
+          setTimeout(() => {
+            map.invalidateSize();
+          }, 100);
+
+          // Créer le cluster group
+          const clusterGroup = L.markerClusterGroup({
+            maxClusterRadius: 50,
+            spiderfyOnMaxZoom: true,
+            showCoverageOnHover: false,
+            zoomToBoundsOnClick: true,
+            iconCreateFunction: function(cluster) {
+              const count = cluster.getChildCount();
+              let size = 'small';
+              if (count > 10) size = 'large';
+              else if (count > 5) size = 'medium';
+
+              return L.divIcon({
+                html: '<div><span>' + count + '</span></div>',
+                className: 'marker-cluster marker-cluster-' + size,
+                iconSize: L.point(40, 40)
+              });
+            }
+          });
+
+          clusterGroupRef.current = clusterGroup;
+          map.addLayer(clusterGroup);
+
+          mapInstanceRef.current = map;
+
+          // Signaler que la carte est prête
+          setMapReady(true);
+        }, 100);
+
+        // Cleanup
+        return () => {
+          if (mapInstanceRef.current) {
+            mapInstanceRef.current.remove();
+            mapInstanceRef.current = null;
+          }
+        };
+      }, []);
+
+      // Mise à jour des marqueurs selon le filtre
+      useEffect(() => {
+        if (!mapReady || !mapInstanceRef.current || !clusterGroupRef.current || balades.length === 0) return;
+
+        // Vider le cluster group
+        clusterGroupRef.current.clearLayers();
+
+        // Filtrer les balades
+        const filteredBalades = selectedDistrict === 'all'
+          ? balades
+          : balades.filter(b => b.district === selectedDistrict);
+
+        // Créer les marqueurs et les ajouter au cluster
+        const markers = filteredBalades.map(balade => {
+          return L.marker([balade.lat, balade.lng])
+            .bindPopup(`
+              <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; width: 280px; max-width: 90vw;">
+                ${balade.image ? `
+                  <img
+                    src="${balade.image}"
+                    alt="${balade.titre || balade.balade}"
+                    style="width: 100%; height: 160px; object-fit: cover; border-radius: 4px 4px 0 0; margin: -15px -20px 12px -20px;"
+                    onerror="this.style.display='none'"
+                  />
+                ` : ''}
+                <div style="padding: ${balade.image ? '0' : '4px 0'};">
+                  ${balade.surtitre ? `
+                    <div style="font-size: 11px; text-transform: uppercase; color: #666; letter-spacing: 0.5px; margin-bottom: 4px; font-weight: 600;">
+                      ${balade.surtitre}
+                    </div>
+                  ` : ''}
+                  <h3 style="font-size: 16px; font-weight: 700; margin: 0 0 8px 0; line-height: 1.3; color: #1a1a1a;">
+                    ${balade.titre || balade.balade}
+                  </h3>
+                  ${balade.chapo ? `
+                    <p style="font-size: 13px; color: #4a4a4a; line-height: 1.5; margin: 0 0 12px 0; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;">
+                      ${balade.chapo}
+                    </p>
+                  ` : ''}
+                  <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 12px; padding-top: 12px; border-top: 1px solid #e5e5e5;">
+                    <div style="font-size: 12px; color: #666;">
+                      ${balade.auteur ? `<span style="font-weight: 500;">${balade.auteur}</span> · ` : ''}
+                      <span>${balade.date}</span>
+                    </div>
+                  </div>
+                  ${balade.lien ? `
+                    <a
+                      href="${balade.lien}"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      style="display: block; margin-top: 12px; padding: 8px 16px; background: #1a1a1a; color: white; text-align: center; text-decoration: none; border-radius: 4px; font-size: 13px; font-weight: 600; transition: background 0.2s;"
+                      onmouseover="this.style.background='#333'"
+                      onmouseout="this.style.background='#1a1a1a'"
+                    >
+                      Lire l'article →
+                    </a>
+                  ` : ''}
+                </div>
+              </div>
+            `, {
+              maxWidth: 300,
+              className: 'custom-popup'
+            });
+        });
+
+        // Ajouter tous les marqueurs au cluster group
+        clusterGroupRef.current.addLayers(markers);
+
+        // Ajuster la vue de la carte selon les marqueurs filtrés (seulement si un district spécifique est sélectionné)
+        if (selectedDistrict !== 'all' && markers.length > 0) {
+          const group = L.featureGroup(markers);
+          mapInstanceRef.current.fitBounds(group.getBounds(), {
+            padding: [50, 50],
+            maxZoom: 12
+          });
+        } else if (selectedDistrict === 'all') {
+          // Recentrer sur Fribourg quand on sélectionne "Tous"
+          mapInstanceRef.current.setView(MAP_CENTER, MAP_ZOOM);
+        }
+      }, [mapReady, balades, selectedDistrict]);
+
+      // Calculer le nombre de balades filtrées
+      const filteredCount = selectedDistrict === 'all'
+        ? balades.length
+        : balades.filter(b => b.district === selectedDistrict).length;
+
+      return React.createElement('div', { className: 'h-screen flex flex-col' },
+        // Header avec filtre
+        React.createElement('div', { className: 'p-4 bg-white shadow-sm border-b' },
+          React.createElement('div', { className: 'max-w-7xl mx-auto' },
+            React.createElement('h1', { className: 'text-2xl font-bold mb-4 text-gray-900' },
+              'Carte des Balades'
+            ),
+            React.createElement('div', { className: 'flex flex-col sm:flex-row items-start sm:items-center gap-4' },
+              React.createElement('select', {
+                value: selectedDistrict,
+                onChange: (e) => setSelectedDistrict(e.target.value),
+                className: 'px-4 py-2 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-gray-200 bg-white'
+              },
+                FILTER_OPTIONS.map(opt =>
+                  React.createElement('option', {
+                    key: opt.value,
+                    value: opt.value,
+                    className: opt.separator ? 'separator' : ''
+                  }, opt.label)
+                )
+              ),
+              React.createElement('span', { className: 'text-sm text-gray-600' },
+                `${filteredCount} balade${filteredCount > 1 ? 's' : ''} affichée${filteredCount > 1 ? 's' : ''}`
+              )
+            )
+          )
+        ),
+
+        // Carte
+        React.createElement('div', { className: 'flex-1 relative' },
+          // Loading state
+          loading && React.createElement('div', {
+            className: 'absolute inset-0 flex items-center justify-center bg-white/80 z-[1000]'
+          },
+            React.createElement('p', { className: 'text-lg text-gray-700' },
+              'Chargement des balades...'
+            )
+          ),
+
+          // Error state
+          error && React.createElement('div', {
+            className: 'absolute inset-0 flex items-center justify-center bg-red-50 z-[1000]'
+          },
+            React.createElement('div', { className: 'text-center p-6' },
+              React.createElement('p', { className: 'text-red-600 font-semibold mb-2' },
+                'Erreur de chargement'
+              ),
+              React.createElement('p', { className: 'text-red-500 text-sm' }, error)
+            )
+          ),
+
+          // Map container
+          React.createElement('div', {
+            ref: mapRef,
+            id: 'map',
+            className: 'w-full h-full'
+          })
+        )
+      );
+    }
+
+    // Render l'application
+    const root = ReactDOM.createRoot(document.getElementById('root'));
+    root.render(React.createElement(BaladeMap));
+  </script>
+</body>
+</html>
