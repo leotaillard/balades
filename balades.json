@@ -1,0 +1,429 @@
+[
+  {
+    "date": "15.10.24",
+    "balade": "Tour du Niremont",
+    "district": "Veveyse",
+    "lat": 46.5233,
+    "lng": 6.8642
+  },
+  {
+    "date": "22.10.24",
+    "balade": "Tour de la Molière, Murist",
+    "district": "Broye",
+    "lat": 46.8833,
+    "lng": 7.0
+  },
+  {
+    "date": "29.10.25",
+    "balade": "Romont, ville",
+    "district": "Glâne",
+    "lat": 46.6942,
+    "lng": 6.9172
+  },
+  {
+    "date": "05.11.24",
+    "balade": "Marais de Garmiswil",
+    "district": "Singine",
+    "lat": 46.8667,
+    "lng": 7.35
+  },
+  {
+    "date": "12.11.24",
+    "balade": "Tour du lac de Lessoc",
+    "district": "Gruyère",
+    "lat": 46.5333,
+    "lng": 7.0833
+  },
+  {
+    "date": "19.11.24",
+    "balade": "Cousimbert",
+    "district": "Gruyère",
+    "lat": 46.6167,
+    "lng": 7.05
+  },
+  {
+    "date": "26.11.24",
+    "balade": "Forêt La Chanéaz, Montagny",
+    "district": "Broye",
+    "lat": 46.7833,
+    "lng": 7.0167
+  },
+  {
+    "date": "29.11.24",
+    "balade": "Parcours ludique à Romont",
+    "district": "Glâne",
+    "lat": 46.6942,
+    "lng": 6.9172
+  },
+  {
+    "date": "03.12.25",
+    "balade": "Boucle à Belfaux",
+    "district": "Sarine",
+    "lat": 46.8333,
+    "lng": 7.1833
+  },
+  {
+    "date": "10.12.24",
+    "balade": "Lac de Montsalvens",
+    "district": "Gruyère",
+    "lat": 46.5833,
+    "lng": 7.1333
+  },
+  {
+    "date": "24.12.24",
+    "balade": "Sentier Ritter, Fribourg",
+    "district": "Sarine",
+    "lat": 46.8062,
+    "lng": 7.1608
+  },
+  {
+    "date": "07.01.25",
+    "balade": "Oberbach Trail (dép. Jaun)",
+    "district": "Gruyère",
+    "lat": 46.6,
+    "lng": 7.2833
+  },
+  {
+    "date": "14.01.25",
+    "balade": "Barrage de Rossens",
+    "district": "Sarine",
+    "lat": 46.7167,
+    "lng": 7.0833
+  },
+  {
+    "date": "21.01.25",
+    "balade": "Mont-Vully",
+    "district": "Lac",
+    "lat": 46.9667,
+    "lng": 7.0833
+  },
+  {
+    "date": "28.01.25",
+    "balade": "Solalex, Alpes vaudoises",
+    "district": "Vaud",
+    "lat": 46.2833,
+    "lng": 7.0333
+  },
+  {
+    "date": "04.02.25",
+    "balade": "Hauterive et bois de Monterban",
+    "district": "Sarine",
+    "lat": 46.7833,
+    "lng": 7.1667
+  },
+  {
+    "date": "11.02.25",
+    "balade": "Cressier-Courtepin",
+    "district": "Lac",
+    "lat": 46.9333,
+    "lng": 7.05
+  },
+  {
+    "date": "18.02.25",
+    "balade": "Les Mosses",
+    "district": "Vaud",
+    "lat": 46.3833,
+    "lng": 7.1
+  },
+  {
+    "date": "25.02.25",
+    "balade": "Tine de Conflens (Morges)",
+    "district": "Vaud",
+    "lat": 46.4167,
+    "lng": 6.4667
+  },
+  {
+    "date": "04.03.25",
+    "balade": "La Loutze (au-dessus d'Ovronnaz)",
+    "district": "Valais",
+    "lat": 46.1167,
+    "lng": 7.2
+  },
+  {
+    "date": "11.03.25",
+    "balade": "Heitenried",
+    "district": "Singine",
+    "lat": 46.8667,
+    "lng": 7.2833
+  },
+  {
+    "date": "18.03.25",
+    "balade": "Loèches-les-Bains",
+    "district": "Valais",
+    "lat": 46.3833,
+    "lng": 7.6333
+  },
+  {
+    "date": "25.03.25",
+    "balade": "Semsales",
+    "district": "Veveyse",
+    "lat": 46.5667,
+    "lng": 6.9167
+  },
+  {
+    "date": "01.04.25",
+    "balade": "Montbovon – Les Allières",
+    "district": "Gruyère",
+    "lat": 46.4833,
+    "lng": 7.0667
+  },
+  {
+    "date": "15.04.25",
+    "balade": "Morat, son lac et Mont-Vully",
+    "district": "Lac",
+    "lat": 46.9667,
+    "lng": 7.0833
+  },
+  {
+    "date": "22.04.25",
+    "balade": "Fuchses Schwyberg",
+    "district": "Singine",
+    "lat": 46.8,
+    "lng": 7.3167
+  },
+  {
+    "date": "29.04.25",
+    "balade": "Bois de la Croix et forêt de l'Etat entre Belfaux et Grolley",
+    "district": "Sarine",
+    "lat": 46.8333,
+    "lng": 7.1833
+  },
+  {
+    "date": "06.05.25",
+    "balade": "Guggisberg",
+    "district": "Singine",
+    "lat": 46.7667,
+    "lng": 7.3333
+  },
+  {
+    "date": "13.05.25",
+    "balade": "Dent de Jaman",
+    "district": "Vaud",
+    "lat": 46.45,
+    "lng": 6.9167
+  },
+  {
+    "date": "19.05.25",
+    "balade": "Estavayer-le-Lac",
+    "district": "Broye",
+    "lat": 46.8494,
+    "lng": 6.8465
+  },
+  {
+    "date": "26.05.25",
+    "balade": "Parc du Gantrisch",
+    "district": "Canton de Berne",
+    "lat": 46.7167,
+    "lng": 7.4167
+  },
+  {
+    "date": "03.06.25",
+    "balade": "A vélo entre Fribourg et Morat",
+    "district": "Sarine et Lac",
+    "lat": 46.8062,
+    "lng": 7.1608
+  },
+  {
+    "date": "10.06.25",
+    "balade": "Boucle entre Posat et Ecuvillens",
+    "district": "Sarine",
+    "lat": 46.7667,
+    "lng": 7.1333
+  },
+  {
+    "date": "17.06.25",
+    "balade": "Lac Renaud aux Diablerets",
+    "district": "Vaud",
+    "lat": 46.35,
+    "lng": 7.2
+  },
+  {
+    "date": "24.06.25",
+    "balade": "Tour du lac de Morat à vélo",
+    "district": "Lac",
+    "lat": 46.9271,
+    "lng": 7.1147
+  },
+  {
+    "date": "01.07.25",
+    "balade": "dans les bois de Belle-Croix et de Moncor",
+    "district": "Sarine",
+    "lat": 46.8,
+    "lng": 7.1333
+  },
+  {
+    "date": "08.07.25",
+    "balade": "en paddle au départ de Pensier, sur le lac de Schiffenen",
+    "district": "Lac",
+    "lat": 46.9167,
+    "lng": 7.1333
+  },
+  {
+    "date": "15.07.25",
+    "balade": "A Sorens, à la découverte des sculptures en bois",
+    "district": "Gruyère",
+    "lat": 46.6667,
+    "lng": 7.05
+  },
+  {
+    "date": "22.07.25",
+    "balade": "lac de Seeberg",
+    "district": "Canton de Berne",
+    "lat": 47.1667,
+    "lng": 7.6667
+  },
+  {
+    "date": "19.08.25",
+    "balade": "La descente du Rhône en paddle, depuis le Centre-Ville de Genève",
+    "district": "Canton de Genève",
+    "lat": 46.2044,
+    "lng": 6.1432
+  },
+  {
+    "date": "26.08.25",
+    "balade": "Le lac de Derborence",
+    "district": "Valais",
+    "lat": 46.2833,
+    "lng": 7.2333
+  },
+  {
+    "date": "02.09.25",
+    "balade": "La pointe de Greng, sur l'unique presqu'île du lac de Morat",
+    "district": "Lac",
+    "lat": 46.9271,
+    "lng": 7.1147
+  },
+  {
+    "date": "09.09.25",
+    "balade": "Autour de Romainmôtier et Croy pour une balade bucolique, avec une cascade",
+    "district": "Vaud",
+    "lat": 46.6939,
+    "lng": 6.47
+  },
+  {
+    "date": "16.09.25",
+    "balade": "A Marly, le long de la Gérine",
+    "district": "Sarine",
+    "lat": 46.7833,
+    "lng": 7.1667
+  },
+  {
+    "date": "23.09.25",
+    "balade": "Lauenensee, entre chalets et lac",
+    "district": "Canton de Berne",
+    "lat": 46.4,
+    "lng": 7.3333
+  },
+  {
+    "date": "30.09.25",
+    "balade": "depuis First à Grindelwald, à la découverte du lac de Bachalp",
+    "district": "Canton de Berne",
+    "lat": 46.6236,
+    "lng": 8.0411
+  },
+  {
+    "date": "07.10.25",
+    "balade": "Une boucle entre Fribourg, Givisiez et Villars-sur-Glâne",
+    "district": "Sarine",
+    "lat": 46.8062,
+    "lng": 7.1608
+  },
+  {
+    "date": "14.10.25",
+    "balade": "lac de Coudré, Grandvillard",
+    "district": "Gruyère",
+    "lat": 46.5333,
+    "lng": 7.1
+  },
+  {
+    "date": "21.10.25",
+    "balade": "Sur le sentier du Cerf à Concise",
+    "district": "Vaud",
+    "lat": 46.85,
+    "lng": 6.7833
+  },
+  {
+    "date": "28.10.25",
+    "balade": "Le tour de la Grande Cariçaie à vélo",
+    "district": "Broye",
+    "lat": 46.9,
+    "lng": 6.95
+  },
+  {
+    "date": "28.10.25",
+    "balade": "Autour du lac de la Gruyère, au départ de Corbières, en passant par le sentier des légendes de la Gruyère",
+    "district": "Gruyère",
+    "lat": 46.5667,
+    "lng": 7.0333
+  },
+  {
+    "date": "04.11.25",
+    "balade": "Montagne de Lussy",
+    "district": "Glâne",
+    "lat": 46.6833,
+    "lng": 6.9667
+  },
+  {
+    "date": "11.11.25",
+    "balade": "Calanques de Cassis",
+    "district": "France, région PACA",
+    "lat": 43.2146,
+    "lng": 5.5385
+  },
+  {
+    "date": "18.11.25",
+    "balade": "sur la colline de Chaumont, sur les hauteurs de Neuchâtel",
+    "district": "Neuchâtel",
+    "lat": 46.8167,
+    "lng": 7.0667
+  },
+  {
+    "date": "25.11.25",
+    "balade": "en Valais, au lieu-dit du Boup",
+    "district": "Valais",
+    "lat": 46.2667,
+    "lng": 7.3833
+  },
+  {
+    "date": "02.12.25",
+    "balade": "Un parcours de l'Avent à découvrir en famille au Crêt",
+    "district": "Veveyse",
+    "lat": 46.4667,
+    "lng": 6.9167
+  },
+  {
+    "date": "09.12.25",
+    "balade": "Barrage de l'Hongrin",
+    "district": "Vaud",
+    "lat": 46.4667,
+    "lng": 7.0667
+  },
+  {
+    "date": "16.12.25",
+    "balade": "Pierrafortscha",
+    "district": "Sarine",
+    "lat": 46.7667,
+    "lng": 7.2
+  },
+  {
+    "date": "23.12.25",
+    "balade": "le sommet du Chasseron",
+    "district": "Vaud",
+    "lat": 46.8667,
+    "lng": 6.5333
+  },
+  {
+    "date": "30.12.25",
+    "balade": "entre Aumont et Murist",
+    "district": "Broye",
+    "lat": 46.8833,
+    "lng": 7.0
+  },
+  {
+    "date": "06.01.26",
+    "balade": "sur le Mont-Vully au départ de Sugiez",
+    "district": "Broye",
+    "lat": 46.9667,
+    "lng": 7.1
+  }
+]
