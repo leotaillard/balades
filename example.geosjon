@@ -5,7 +5,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          7.3025,
+          46.6447
+        ]
       },
       "properties": {
         "id": "sentier-hivernal-au-col-du-jaun-1277655",
@@ -52,7 +55,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          7.0833,
+          46.9667
+        ]
       },
       "properties": {
         "id": "on-vous-emmene-pour-une-balade-hivernale-sur-les-traces-de-lhistoire-au-mont-vully-1276284",
@@ -101,7 +107,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          6.9167,
+          46.75
+        ]
       },
       "properties": {
         "id": "une-balade-entre-aumont-et-murist-dune-eglise-a-lautre-1268872",
@@ -148,7 +157,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          6.5333,
+          46.8667
+        ]
       },
       "properties": {
         "id": "direction-le-sommet-du-chasseron-ou-se-devoile-un-magnifique-panorama-1266519",
