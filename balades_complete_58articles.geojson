@@ -1,0 +1,2885 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3025,
+          46.6447
+        ]
+      },
+      "properties": {
+        "id": "sentier-hivernal-au-col-du-jaun-1277655",
+        "url": "https://www.laliberte.ch/articles/regions/gruyere/sentier-hivernal-au-col-du-jaun-1277655",
+        "name": "Sentier Hivernal Au Col Du Jaun",
+        "title": "Un joli sentier accessible de 2km. Le long du Winterwanderweg pour admirer le paysage hivernal du col du Jaun",
+        "subtitle": "Un joli sentier accessible de 2km.",
+        "mainTitle": "Le long du Winterwanderweg pour admirer le paysage hivernal du col du Jaun",
+        "description": "Le col du Jaun (Jaunpass), qui relie le pays de Gruyère au Simmental, compte plusieurs itinéraires de randonnées ainsi que des pistes de luge, de ski de piste ou de fond.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 4 kilomètres",
+        "loop": false,
+        "difficulty": "Facile",
+        "duration": "Un peu plus d’une heure",
+        "audience": "Tout public",
+        "access": "En voiture",
+        "startingPoint": "Parking disponible au col du Jaun",
+        "image": "https://mediasp.twassets.cloud/LL/2026/1/baladejaun_64304ecf02.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2026/1/baladejaun_64304ecf02.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Gruyère",
+          "Simmental",
+          "Jaunpass",
+          "col du Jaun"
+        ],
+        "_geocoding_queries": [
+          "col du Jaun, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Gruyère, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Jaunpass, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Simmental, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0833,
+          46.9667
+        ]
+      },
+      "properties": {
+        "id": "on-vous-emmene-pour-une-balade-hivernale-sur-les-traces-de-lhistoire-au-mont-vully-1276284",
+        "url": "https://www.laliberte.ch/articles/regions/lac/on-vous-emmene-pour-une-balade-hivernale-sur-les-traces-de-lhistoire-au-mont-vully-1276284",
+        "name": "On Vous Emmene Pour Une Balade Hivernale Sur Les Traces De Lhistoire Au Mont Vully",
+        "title": "Vestiges celtiques, bloc erratique et ouvrage militaire… On vous emmène pour une balade hivernale sur les traces de l’histoire au Mont-Vully",
+        "subtitle": "Vestiges celtiques, bloc erratique et ouvrage militaire…",
+        "mainTitle": "On vous emmène pour une balade hivernale sur les traces de l’histoire au Mont-Vully",
+        "description": "Dans les pas de l’historien François Walter, qui publie un recueil de balades historiques, je vous propose une grande promenade sur le Mont-Vully au départ de Sugiez, avec retour en longeant le canal de la Broye. Vestiges celtes au menu, mais pas que!",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 12 kilomètres",
+        "loop": true,
+        "difficulty": "Facile",
+        "duration": "Environ 4h",
+        "audience": "Tout public",
+        "access": "",
+        "startingPoint": "Gare de Sugiez",
+        "image": "https://mediasp.twassets.cloud/LL/2026/1/Drapeau_Vole_6_7904aa344a.png",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2026/1/Drapeau_Vole_6_7904aa344a.png",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Vestiges",
+          "Broye",
+          "Sugiez",
+          "Walter",
+          "Vully"
+        ],
+        "_geocoding_queries": [
+          "Vestiges, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Vully, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Walter, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Broye, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Sugiez, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9167,
+          46.75
+        ]
+      },
+      "properties": {
+        "id": "une-balade-entre-aumont-et-murist-dune-eglise-a-lautre-1268872",
+        "url": "https://www.laliberte.ch/articles/regions/broye/une-balade-entre-aumont-et-murist-dune-eglise-a-lautre-1268872",
+        "name": "Une Balade Entre Aumont Et Murist Dune Eglise A Lautre",
+        "title": "Une invitation à la méditation… même sous le brouillard. Une balade entre Aumont et Murist, d’une église à l’autre",
+        "subtitle": "Une invitation à la méditation… même sous le brouillard.",
+        "mainTitle": "Une balade entre Aumont et Murist, d’une église à l’autre",
+        "description": "Sur le parcours de 6,3 kilomètres se trouvent quelques lieux propices pour prendre du temps pour soi. L’église d’Aumont, la chapelle de Franex, la grotte de Notre-Dame de Grâce et finalement la cathédrale des paysans à Murist sont à découvrir sur le chemin.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "6,3 kilomètres",
+        "loop": false,
+        "difficulty": "Facile",
+        "duration": "Environ 1 h 40",
+        "audience": "Tout public",
+        "access": "En voiture ou en transports publics",
+        "startingPoint": "A la grande salle d’Aumont",
+        "image": "https://mediasp.twassets.cloud/LL/2025/12/DSC_1189_68fc1cf28f.JPG",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/12/DSC_1189_68fc1cf28f.JPG",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Aumont",
+          "Franex",
+          "Murist",
+          "Notre-Dame"
+        ],
+        "_geocoding_queries": [
+          "Aumont, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Murist, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Franex, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Notre-Dame, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.55,
+          46.85
+        ]
+      },
+      "properties": {
+        "id": "direction-le-sommet-du-chasseron-ou-se-devoile-un-magnifique-panorama-1266519",
+        "url": "https://www.laliberte.ch/articles/regions/vaud/direction-le-sommet-du-chasseron-ou-se-devoile-un-magnifique-panorama-1266519",
+        "name": "Direction Le Sommet Du Chasseron Ou Se Devoile Un Magnifique Panorama",
+        "title": "Une balade pour échapper au brouillard dans le massif du Jura. Direction le sommet du Chasseron, où se dévoile un magnifique panorama",
+        "subtitle": "Une balade pour échapper au brouillard dans le massif du Jura.",
+        "mainTitle": "Direction le sommet du Chasseron, où se dévoile un magnifique panorama",
+        "description": "Cette boucle de plus de 10 kilomètres permet de découvrir le sommet du Chasseron, situé dans le massif du Jura. Le panorama est juste splendide.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "10 kilomètres",
+        "loop": true,
+        "difficulty": "Moyen",
+        "duration": "Environ 2 h 30",
+        "audience": "Tout public mais ça grimpe!",
+        "access": "En voiture",
+        "startingPoint": "Parking des Rasses",
+        "image": "https://mediasp.twassets.cloud/LL/2025/12/baladechasseron3_1d5c57bef4.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/12/baladechasseron3_1d5c57bef4.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Direction",
+          "Chasseron"
+        ],
+        "_geocoding_queries": [
+          "Direction, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Chasseron, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1333,
+          46.7833
+        ]
+      },
+      "properties": {
+        "id": "pierrafortscha-petit-coin-de-nature-pour-grandes-randonnees-1251090",
+        "url": "https://www.laliberte.ch/articles/regions/sarine/pierrafortscha-petit-coin-de-nature-pour-grandes-randonnees-1251090",
+        "name": "Pierrafortscha Petit Coin De Nature Pour Grandes Randonnees",
+        "title": "Une balade à proximité de la ville. A Pierrafortscha, un petit coin de nature pour de grandes randonnées",
+        "subtitle": "Une balade à proximité de la ville.",
+        "mainTitle": "A Pierrafortscha, un petit coin de nature pour de grandes randonnées",
+        "description": "A quelques minutes de centres urbains comme Marly et Fribourg, cette boucle d’un peu plus de 5 kilomètres promet de belles découvertes.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "5,3 kilomètres",
+        "loop": true,
+        "difficulty": "Facile",
+        "duration": "Environ 1 h 20",
+        "audience": "Tout public",
+        "access": "En voiture ou en transports\npublics",
+        "startingPoint": "Au hameau Maison rouge sur la commune de Pierrafortscha",
+        "image": "https://mediasp.twassets.cloud/LL/2025/11/baladepierra3_a7b36cfb25.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/11/baladepierra3_a7b36cfb25.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Marly",
+          "Fribourg",
+          "Pierrafortscha"
+        ],
+        "_geocoding_queries": [
+          "Pierrafortscha, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Marly, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Fribourg, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "on-a-marche-jusquau-barrage-de-l-hongrin-sous-un-soleil-qui-rechauffe-les-vallees-enneigees-1261259",
+        "url": "https://www.laliberte.ch/articles/regions/vaud/on-a-marche-jusquau-barrage-de-l-hongrin-sous-un-soleil-qui-rechauffe-les-vallees-enneigees-1261259",
+        "name": "On A Marche Jusquau Barrage De L Hongrin Sous Un Soleil Qui Rechauffe Les Vallees Enneigees",
+        "title": "Une balade parfaite pour le redoux automnal. On a marché jusqu’au barrage de l’Hongrin, sous un soleil qui réchauffe les vallées enneigées",
+        "subtitle": "Une balade parfaite pour le redoux automnal.",
+        "mainTitle": "On a marché jusqu’au barrage de l’Hongrin, sous un soleil qui réchauffe les vallées enneigées",
+        "description": "Cette sortie n’était pas la plus simple, mais le paysage était à couper le souffle! Si vous avez envie de marcher pendant plusieurs heures près d’un lac en montagne, cet itinéraire est fait pour vous! Il faudra juste traverser la frontière vaudoise.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 12 kilomètres",
+        "loop": false,
+        "difficulty": "Intermédiaire",
+        "duration": "Environ 3 h",
+        "audience": "Tout public",
+        "access": "En voiture",
+        "startingPoint": "Parking juste avant la caserne militaire située route de l’Hongrin à La Lécherette, à côté du char d’assaut",
+        "image": "https://mediasp.twassets.cloud/LL/2025/12/DSC_1108_4bbbf4f394.JPG",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/12/DSC_1108_4bbbf4f394.JPG",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Hongrin"
+        ],
+        "_geocoding_queries": [
+          "Hongrin, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "au-cret-on-attend-noel-dans-la-tourbiere-1254882",
+        "url": "https://www.laliberte.ch/articles/regions/veveyse/au-cret-on-attend-noel-dans-la-tourbiere-1254882",
+        "name": "Au Cret On Attend Noel Dans La Tourbiere",
+        "title": "Un parcours de l’Avent à découvrir en famille. Au Crêt, on attend Noël dans la tourbière",
+        "subtitle": "Un parcours de l’Avent à découvrir en famille.",
+        "mainTitle": "Au Crêt, on attend Noël dans la tourbière",
+        "description": "Le sentier de l’Avent, dans la tourbière La Mosse d’en Bas, propose une boucle d’environ 2 kilomètres. Une promenade féerique au cœur de la forêt.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "Prévoyance professionnelle.La caisse de pension de l’Etat de Fribourg offre un sucre",
+        "district": "Prévoyance professionnelle.La caisse de pension de l’Etat de Fribourg offre un sucre",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 4 kilomètres",
+        "loop": true,
+        "difficulty": "Facile",
+        "duration": "Environ 1 h 20",
+        "audience": "Tout public",
+        "access": "En voiture",
+        "startingPoint": "Parking en bordure de forêt à la tourbière La Mosse d’En Bas",
+        "image": "https://mediasp.twassets.cloud/LL/2025/11/baladeglane5_21e53c079a.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/11/baladeglane5_21e53c079a.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Avent",
+          "Mosse"
+        ],
+        "_geocoding_queries": [
+          "Avent, Prévoyance professionnelle.La caisse de pension de l’Etat de Fribourg offre un sucre, Fribourg, Suisse",
+          "Mosse, Prévoyance professionnelle.La caisse de pension de l’Etat de Fribourg offre un sucre, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4795,
+          46.2948
+        ]
+      },
+      "properties": {
+        "id": "dans-la-contree-des-sorcieres-sur-les-pas-des-rituels-demoniaques-1250038",
+        "url": "https://www.laliberte.ch/articles/suisse/dans-la-contree-des-sorcieres-sur-les-pas-des-rituels-demoniaques-1250038",
+        "name": "Dans La Contree Des Sorcieres Sur Les Pas Des Rituels Demoniaques",
+        "title": "Une balade gorgée de légendes en Valais. Dans la contrée des sorcières, sur les pas des rituels démoniaques",
+        "subtitle": "Une balade gorgée de légendes en Valais.",
+        "mainTitle": "Dans la contrée des sorcières, sur les pas des rituels démoniaques",
+        "description": "La promenade de la semaine conjugue petite et grande histoire. Elle nous mène sur les pas de la sorcellerie en Valais, au lieu-dit du Boup connu pour ses réunions maléfiques.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "",
+        "district": "",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "15 kilomètres au total, 5\ndepuis Diogne",
+        "loop": false,
+        "difficulty": "Facile",
+        "duration": "Entre 2 et 4 heures",
+        "audience": "Tout public sauf pour ceux\nqui ont le vertige",
+        "access": "En voiture ou en transports\npublics",
+        "startingPoint": "Diogne",
+        "image": "https://mediasp.twassets.cloud/LL/2025/11/Image_13_231d70a9ae.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/11/Image_13_231d70a9ae.jpg",
+        "marker-color": "#808080",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Valais"
+        ],
+        "_geocoding_queries": [
+          "Valais, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          47.0333
+        ]
+      },
+      "properties": {
+        "id": "la-haut-sur-la-colline-de-chaumont-1244880",
+        "url": "https://www.laliberte.ch/articles/suisse/la-haut-sur-la-colline-de-chaumont-1244880",
+        "name": "La Haut Sur La Colline De Chaumont",
+        "title": "Balade. Là-haut sur la colline de Chaumont",
+        "subtitle": "Balade.",
+        "mainTitle": "Là-haut sur la colline de Chaumont",
+        "description": "Sur les hauteurs de Neuchâtel, cette boucle d’environ 6 kilomètres, très accessible, offre de magnifiques points de vue. Plusieurs activités comme de l’accrobranche y sont également proposées.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "6 kilomètres",
+        "loop": true,
+        "difficulty": "Facile",
+        "duration": "1,45 heure",
+        "audience": "",
+        "access": "",
+        "startingPoint": "Parking près du funiculaire La Coudre-Chaumont",
+        "image": "https://mediasp.twassets.cloud/LL/2025/11/photobaladechaumont_e37644e722.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/11/photobaladechaumont_e37644e722.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Balade",
+          "Chaumont",
+          "Neuch"
+        ],
+        "_geocoding_queries": [
+          "Balade, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Chaumont, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Neuch, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.538,
+          43.214
+        ]
+      },
+      "properties": {
+        "id": "voici-pourquoi-lautomne-est-la-meilleure-saison-pour-visiter-les-calanques-de-cassis-1230768",
+        "url": "https://www.laliberte.ch/articles/societe/evasion/voici-pourquoi-lautomne-est-la-meilleure-saison-pour-visiter-les-calanques-de-cassis-1230768",
+        "name": "Voici Pourquoi Lautomne Est La Meilleure Saison Pour Visiter Les Calanques De Cassis",
+        "title": "Une balade au bord de la Méditerranée qui «En-Vau» la peine! Voici pourquoi l’automne est la meilleure saison pour visiter les calanques de Cassis",
+        "subtitle": "Une balade au bord de la Méditerranée qui «En-Vau» la peine!",
+        "mainTitle": "Voici pourquoi l’automne est la meilleure saison pour visiter les calanques de Cassis",
+        "description": "Nous vous proposons une balade dans le somptueux décor des calanques de Cassis. Au départ de celle de Port-Miou, rejoignez sur un sentier pour une fois raisonnablement fréquenté la superbe calanque d’En-Vau. Points de vue à couper le souffle et baignade sont au menu de cette boucle d’un peu moins de 10 kilomètres.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "9,3 kilomètres",
+        "loop": true,
+        "difficulty": "Facile",
+        "duration": "4 heures",
+        "audience": "",
+        "access": "",
+        "startingPoint": "Parking de la presqu’île à Cassis",
+        "image": "https://mediasp.twassets.cloud/LL/2025/11/IMG_7635_2_cd120080d4.png",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/11/IMG_7635_2_cd120080d4.png",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Voici",
+          "Cassis",
+          "Points",
+          "Méditerranée"
+        ],
+        "_geocoding_queries": [
+          "Cassis, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Voici, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Méditerranée, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Points, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "quand-la-montagne-est-accessible-a-tous-1232323",
+        "url": "https://www.laliberte.ch/articles/regions/glane/quand-la-montagne-est-accessible-a-tous-1232323",
+        "name": "Quand La Montagne Est Accessible A Tous",
+        "title": "Une balade avec chien et poussette. Quand la montagne est accessible à tous",
+        "subtitle": "Une balade avec chien et poussette.",
+        "mainTitle": "Quand la montagne est accessible à tous",
+        "description": "Une randonnée facile et modulable en Glâne, selon l’envie et la fatigue du moment. Embarquez avec notre guide du jour pas plus haut que trois pommes hors des sentiers battus.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "3, 5 ou 7 kilomètres",
+        "loop": true,
+        "difficulty": "Facile",
+        "duration": "Entre 1 heure et 2 heures",
+        "audience": "Tout public",
+        "access": "En voiture ou en transports publics",
+        "startingPoint": "Cabane de Villaz-Saint-Pierre, route de la Forêt",
+        "image": "https://mediasp.twassets.cloud/LL/2025/11/Image_5_8479d116e8.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/11/Image_5_8479d116e8.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Embarquez",
+          "Quand"
+        ],
+        "_geocoding_queries": [
+          "Quand, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Embarquez, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "au-depart-de-corbieres-une-explosion-de-couleurs-automnales-1227914",
+        "url": "https://www.laliberte.ch/articles/regions/gruyere/au-depart-de-corbieres-une-explosion-de-couleurs-automnales-1227914",
+        "name": "Au Depart De Corbieres Une Explosion De Couleurs Automnales",
+        "title": "Balade. Au départ de Corbières, une explosion de couleurs automnales",
+        "subtitle": "Balade.",
+        "mainTitle": "Au départ de Corbières, une explosion de couleurs automnales",
+        "description": "Cette boucle d’environ 4,6 kilomètres offre de jolis points de vue notamment sur le lac de la Gruyère.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 4,6 km",
+        "loop": true,
+        "difficulty": "Facile",
+        "duration": "Environ 1 h 15",
+        "audience": "Tout public",
+        "access": "En voiture ou en transports publics",
+        "startingPoint": "Places de parc à côté du pont de Corbières à la route des Echampis",
+        "image": "https://mediasp.twassets.cloud/LL/2025/10/photcorbieres_4e65e53603.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/10/photcorbieres_4e65e53603.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Balade",
+          "Corbières",
+          "Gruyère",
+          "lac de la Gruyère"
+        ],
+        "_geocoding_queries": [
+          "Balade, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Corbières, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Gruyère, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "lac de la Gruyère, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "on-a-fait-le-tour-de-la-grande-caricaie-a-velo-1217326",
+        "url": "https://www.laliberte.ch/articles/regions/broye/on-a-fait-le-tour-de-la-grande-caricaie-a-velo-1217326",
+        "name": "On A Fait Le Tour De La Grande Caricaie A Velo",
+        "title": "La balade des sens heureux. On a fait le tour de la Grande Cariçaie à vélo",
+        "subtitle": "La balade des sens heureux.",
+        "mainTitle": "On a fait le tour de la Grande Cariçaie à vélo",
+        "description": "Pour cette\nboucle de 33 km,\ncomptez quatre heures\navec les pauses, une petite\njournée pour profiter des\nactivités proposées en chemin.\nLe tracé est facile et relativement\nplat (220 m de dénivelé),\navec trois courtes ascensions\nà Bussy, Chevroux\net Gletterens.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "",
+        "loop": null,
+        "difficulty": "",
+        "duration": "",
+        "audience": "",
+        "access": "",
+        "startingPoint": "",
+        "image": "https://mediasp.twassets.cloud/LL/2025/10/Slow_Up_23072023_CR_43_preview_4b8a365b45.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/10/Slow_Up_23072023_CR_43_preview_4b8a365b45.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Gletterens",
+          "Bussy",
+          "Chevroux"
+        ],
+        "_geocoding_queries": [
+          "Gletterens, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Bussy, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Chevroux, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "sur-le-sentier-du-cerf-a-concise-dans-le-nord-vaudois-1225195",
+        "url": "https://www.laliberte.ch/articles/regions/vaud/sur-le-sentier-du-cerf-a-concise-dans-le-nord-vaudois-1225195",
+        "name": "Sur Le Sentier Du Cerf A Concise Dans Le Nord Vaudois",
+        "title": "Une balade entre lac et montagnes. Sur le sentier du Cerf à Concise, dans le Nord vaudois",
+        "subtitle": "Une balade entre lac et montagnes.",
+        "mainTitle": "Sur le sentier du Cerf à Concise, dans le Nord vaudois",
+        "description": "Cette balade vous emmène à la découverte d’une multitude de paysages aux couleurs de l’automne, du bord du lac de Neuchâtel au vignoble de Concise en passant par la forêt.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 8 km",
+        "loop": true,
+        "difficulty": "Facile",
+        "duration": "De 1 heure à 3 heures, selon l’itinéraire choisi",
+        "audience": "Tout public",
+        "access": "En voiture ou en transports publics",
+        "startingPoint": "Parking de la gare de Concise",
+        "image": "https://mediasp.twassets.cloud/LL/2025/10/1000089339_341c186045.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/10/1000089339_341c186045.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "lac de Neuch",
+          "Neuch",
+          "Concise"
+        ],
+        "_geocoding_queries": [
+          "Concise, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "lac de Neuch, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Neuch, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "on-vous-emmene-au-lac-de-coudre-sur-les-hauteurs-de-grandvillard-1221691",
+        "url": "https://www.laliberte.ch/articles/regions/gruyere/on-vous-emmene-au-lac-de-coudre-sur-les-hauteurs-de-grandvillard-1221691",
+        "name": "On Vous Emmene Au Lac De Coudre Sur Les Hauteurs De Grandvillard",
+        "title": "Une balade dans une ambiance mystique, ça vous tente? Direction le lac de Coudré, sur les hauteurs de Grandvillard",
+        "subtitle": "Une balade dans une ambiance mystique, ça vous tente?",
+        "mainTitle": "Direction le lac de Coudré, sur les hauteurs de Grandvillard",
+        "description": "Le brouillard peut gâcher la vue, mais il peut aussi donner un côté mystérieux à une balade. C’est ce que je vous propose avec cette marche autour du lac de Coudré, sur les hauteurs de Grandvillard. Avec en bonus: la présence d’une cascade.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 2 km",
+        "loop": false,
+        "difficulty": "Très facile",
+        "duration": "Environ 30 minutes",
+        "audience": "",
+        "access": "En voiture",
+        "startingPoint": "Parking des Baudes",
+        "image": "https://mediasp.twassets.cloud/LL/2025/10/Media_14_ffcf5f92fe.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/10/Media_14_ffcf5f92fe.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Direction",
+          "lac de Coudré",
+          "Coudré",
+          "Grandvillard"
+        ],
+        "_geocoding_queries": [
+          "Grandvillard, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Direction, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "lac de Coudré, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Coudré, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "trois-communes-pour-une-boucle-1210939",
+        "url": "https://www.laliberte.ch/articles/regions/canton/trois-communes-pour-une-boucle-1210939",
+        "name": "Trois Communes Pour Une Boucle",
+        "title": "Une balade entre deux averses. Trois communes fribourgeoises, une boucle à la clé",
+        "subtitle": "Une balade entre deux averses.",
+        "mainTitle": "Trois communes fribourgeoises, une boucle à la clé",
+        "description": "Voilà un tour d’environ 5 kilomètres traversant une partie des communes de Fribourg, Givisiez et Villars-sur-Glâne. A faire entre deux averses.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 5 km",
+        "loop": true,
+        "difficulty": "Très facile",
+        "duration": "Environ 1 h 20",
+        "audience": "",
+        "access": "En voiture ou en transports publics",
+        "startingPoint": "Parking à côté du minigolf de Fribourg",
+        "image": "https://mediasp.twassets.cloud/LL/2025/10/balade_FR_77acbc870d.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/10/balade_FR_77acbc870d.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Fribourg",
+          "Villars",
+          "Givisiez",
+          "Voilà",
+          "Trois"
+        ],
+        "_geocoding_queries": [
+          "Trois, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Voilà, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Fribourg, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Villars, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Givisiez, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "en-route-vers-le-lac-de-bachalp-joyau-bleu-des-alpes-1203776",
+        "url": "https://www.laliberte.ch/articles/suisse/en-route-vers-le-lac-de-bachalp-joyau-bleu-des-alpes-1203776",
+        "name": "En Route Vers Le Lac De Bachalp Joyau Bleu Des Alpes",
+        "title": "Balade avec vue sur l’Eiger. En route vers le lac de Bachalp, joyau bleu des Alpes",
+        "subtitle": "Balade avec vue sur l’Eiger.",
+        "mainTitle": "En route vers le lac de Bachalp, joyau bleu des Alpes",
+        "description": "Cette randonnée de plus de 6 kilomètres aller et retour depuis First à Grindelwald dans le canton de Berne vous emmène à la découverte du lac de Bachalp. Un véritable paradis bleu.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 6,5 km",
+        "loop": true,
+        "difficulty": "Moyen",
+        "duration": "Environ 1 h 40",
+        "audience": "",
+        "access": "En voiture ou en transports publics depuis la gare",
+        "startingPoint": "Télécabine de First",
+        "image": "https://mediasp.twassets.cloud/LL/2025/9/baladegrindelwald2_04e3fb206d.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/9/baladegrindelwald2_04e3fb206d.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "First",
+          "Balade",
+          "Eiger",
+          "Grindelwald",
+          "Bachalp",
+          "Berne",
+          "lac de Bachalp",
+          "Alpes"
+        ],
+        "_geocoding_queries": [
+          "Balade, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Eiger, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Bachalp, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "lac de Bachalp, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Alpes, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "First, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Grindelwald, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Berne, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "des-chalets-des-drapeaux-suisses-et-un-lac-1196390",
+        "url": "https://www.laliberte.ch/articles/suisse/des-chalets-des-drapeaux-suisses-et-un-lac-1196390",
+        "name": "Des Chalets Des Drapeaux Suisses Et Un Lac",
+        "title": "On vous emmène dans le canton de Berne, pour une balade en montagne entre des chalets et un lac",
+        "subtitle": "On vous emmène dans le canton de Berne,",
+        "mainTitle": "pour une balade en montagne entre des chalets et un lac",
+        "description": "Le lac de Lauenen dans le canton de Berne propose une randonnée bucolique et au charme helvétique très prisé. Maisso schön!",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 8 km",
+        "loop": true,
+        "difficulty": "Moyen",
+        "duration": "Environ 2 heures",
+        "audience": "",
+        "access": "En voiture",
+        "startingPoint": "Plusieurs parkings à Lauenen",
+        "image": "https://mediasp.twassets.cloud/LL/2025/9/baladelauenen2_ebb02733c2.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/9/baladelauenen2_ebb02733c2.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "lac de Lauenen dans le canton de",
+          "Berne",
+          "Lauenen",
+          "Maisso"
+        ],
+        "_geocoding_queries": [
+          "Berne, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Lauenen, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Maisso, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "lac de Lauenen dans le canton de, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1583,
+          46.7778
+        ]
+      },
+      "properties": {
+        "id": "au-frais-entre-deux-planetes-le-long-de-la-gerine-1190160",
+        "url": "https://www.laliberte.ch/articles/regions/sarine/au-frais-entre-deux-planetes-le-long-de-la-gerine-1190160",
+        "name": "Au Frais Entre Deux Planetes Le Long De La Gerine",
+        "title": "Une balade à Marly. Au frais, entre deux planètes, le long de la Gérine",
+        "subtitle": "Une balade à Marly.",
+        "mainTitle": "Au frais, entre deux planètes, le long de la Gérine",
+        "description": "Cette boucle d’environ 6 kilomètres au départ du parking près de la patinoire longe la Gérine et une partie du sentier planétaire puis remonte en direction de l’Ancienne Papeterie et de l’église.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 6 km",
+        "loop": true,
+        "difficulty": "Facile",
+        "duration": "Environ 1 h 30",
+        "audience": "",
+        "access": "En voiture ou en transports publics",
+        "startingPoint": "Parking à côté de la patinoire de Marly",
+        "image": "https://mediasp.twassets.cloud/LL/2025/9/balademarly2_ac33ca7140.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/9/balademarly2_ac33ca7140.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Gérine",
+          "Papeterie",
+          "Ancienne",
+          "Marly"
+        ],
+        "_geocoding_queries": [
+          "Marly, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Gérine, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Papeterie, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Ancienne, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "autour-de-romainmotier-et-croy-pour-une-balade-bucolique-1175053",
+        "url": "https://www.laliberte.ch/articles/regions/vaud/autour-de-romainmotier-et-croy-pour-une-balade-bucolique-1175053",
+        "name": "Autour De Romainmotier Et Croy Pour Une Balade Bucolique",
+        "title": "A la clé, une cascade de 20 mètres. Autour de Romainmôtier et Croy pour une balade bucolique",
+        "subtitle": "A la clé, une cascade de 20 mètres.",
+        "mainTitle": "Autour de Romainmôtier et Croy pour une balade bucolique",
+        "description": "Une randonnée d’environ 2h30 au départ de Romainmôtier vous fera découvrir des paysages enchanteurs, dont une cascade haute de 20 mètres et d’anciens lavoirs.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 9 km",
+        "loop": true,
+        "difficulty": "Moyen",
+        "duration": "Environ 2h30",
+        "audience": "Tout public, mais ne convient pas aux poussettes et le passage qui permet d’accéder à la cascade peut être dangereux pour les enfants en bas âge",
+        "access": "En voiture ou en train",
+        "startingPoint": "Romainmôtier",
+        "image": "https://mediasp.twassets.cloud/LL/2025/8/Media_26_accee19de9.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/8/Media_26_accee19de9.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Autour",
+          "Romainm"
+        ],
+        "_geocoding_queries": [
+          "Autour, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Romainm, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1167,
+          46.9278
+        ]
+      },
+      "properties": {
+        "id": "en-balade-sur-lunique-presquile-du-lac-de-morat-1182945",
+        "url": "https://www.laliberte.ch/articles/regions/lac/en-balade-sur-lunique-presquile-du-lac-de-morat-1182945",
+        "name": "En Balade Sur Lunique Presquile Du Lac De Morat",
+        "title": "La pointe de Greng, entre nature et culture. En balade sur l’unique presqu’île du lac de Morat",
+        "subtitle": "La pointe de Greng, entre nature et culture.",
+        "mainTitle": "En balade sur l’unique presqu’île du lac de Morat",
+        "description": "Unique presqu’île du lac de Morat, la pointe de Greng ou Greng-Spitz abrite de nombreux vestiges palafittiques et une belle place de grillades.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 4 km",
+        "loop": true,
+        "difficulty": "Facile",
+        "duration": "Environ 1 heure",
+        "audience": "",
+        "access": "En voiture",
+        "startingPoint": "Parking à côté de l’obélisque de Meyriez",
+        "image": "https://mediasp.twassets.cloud/LL/2025/8/balademeyriez1_7aa0f3d72e.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/8/balademeyriez1_7aa0f3d72e.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Unique",
+          "Greng-Spitz",
+          "lac de Morat",
+          "Morat",
+          "pointe de Greng",
+          "Greng"
+        ],
+        "_geocoding_queries": [
+          "Morat, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "lac de Morat, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "pointe de Greng, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Greng, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Unique, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Greng-Spitz, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "le-lac-de-derborence-un-petit-joyau-alpin-1180493",
+        "url": "https://www.laliberte.ch/articles/suisse/le-lac-de-derborence-un-petit-joyau-alpin-1180493",
+        "name": "Le Lac De Derborence Un Petit Joyau Alpin",
+        "title": "Une balade, deux lacs. Le lac de Derborence, un petit joyau alpin",
+        "subtitle": "Une balade, deux lacs.",
+        "mainTitle": "Le lac de Derborence, un petit joyau alpin",
+        "description": "En Valais, une boucle d’un peu plus de 7 kilomètres permet de découvrir deux lacs: celui de Derborence et son voisin de Godet. Le décor est juste sublime.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 7 km",
+        "loop": true,
+        "difficulty": "Moyen",
+        "duration": "Environ 2 heures selon les pauses",
+        "audience": "",
+        "access": "En voiture Un car postal relie la Gare de Sion à Derborence de fin juin à octobre.",
+        "startingPoint": "Parking",
+        "image": "https://mediasp.twassets.cloud/LL/2025/8/derborence2_0f7555859e.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/8/derborence2_0f7555859e.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "lac de Derborence",
+          "Valais",
+          "Godet",
+          "Derborence"
+        ],
+        "_geocoding_queries": [
+          "lac de Derborence, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Derborence, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Godet, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Valais, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "depuis-le-centre-ville-de-geneve-se-laisser-deriver-sur-le-fleuve-jusquau-soleil-couchant-1179056",
+        "url": "https://www.laliberte.ch/articles/suisse/depuis-le-centre-ville-de-geneve-se-laisser-deriver-sur-le-fleuve-jusquau-soleil-couchant-1179056",
+        "name": "Depuis Le Centre Ville De Geneve Se Laisser Deriver Sur Le Fleuve Jusquau Soleil Couchant",
+        "title": "On a fait la descente du Rhône en paddle. Depuis le Centre-Ville de Genève, se laisser dériver sur le fleuve jusqu’au soleil couchant",
+        "subtitle": "On a fait la descente du Rhône en paddle.",
+        "mainTitle": "Depuis le Centre-Ville de Genève, se laisser dériver sur le fleuve jusqu’au soleil couchant",
+        "description": "À Genève, la descente du Rhône est une institution. Je n’ai pas résisté à l’envie de la tenter en paddle lors d’un séjour dans la ville de Calvin. Je vous emmène pour une balade fluviale de plus de onze kilomètres.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "11,5 kilomètres",
+        "loop": false,
+        "difficulty": "Facile",
+        "duration": "3 à 4 heures en fonction du courant",
+        "audience": "",
+        "access": "",
+        "startingPoint": "Quai du Seujet",
+        "image": "https://mediasp.twassets.cloud/LL/2025/8/IMG_6492_9d23735d2f.png",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/8/IMG_6492_9d23735d2f.png",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Centre-Ville",
+          "Genève",
+          "Calvin"
+        ],
+        "_geocoding_queries": [
+          "Centre-Ville, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Genève, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Calvin, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "ramer-depuis-la-roche-a-lassaut-des-deux-tours-de-lile-d-ogoz-1172284",
+        "url": "https://www.laliberte.ch/articles/regions/gruyere/ramer-depuis-la-roche-a-lassaut-des-deux-tours-de-lile-d-ogoz-1172284",
+        "name": "Ramer Depuis La Roche A Lassaut Des Deux Tours De Lile D Ogoz",
+        "title": "Balade en paddle sur le lac de la Gruyère. Ramer depuis La Roche à l’assaut des deux tours de l’île d’Ogoz",
+        "subtitle": "Balade en paddle sur le lac de la Gruyère.",
+        "mainTitle": "Ramer depuis La Roche à l’assaut des deux tours de l’île d’Ogoz",
+        "description": "Mêler plaisirs nautiques et exploration de ruines médiévales, c’est ce que propose cette balade en paddle qui relie la plage de La Roche à l’île d’Ogoz. Grimpez devant, je vous emmène!",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "4,8 kilomètres (aller-retour)",
+        "loop": null,
+        "difficulty": "Facile",
+        "duration": "3 heures",
+        "audience": "",
+        "access": "",
+        "startingPoint": "Plage de La Roche",
+        "image": "https://mediasp.twassets.cloud/LL/2025/8/IMG_6388_726f7909c7_91045485cc.png",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/8/IMG_6388_726f7909c7_91045485cc.png",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Gruyère",
+          "Grimpez",
+          "Roche",
+          "lac de la Gruyère",
+          "Balade",
+          "Ramer",
+          "Mêler"
+        ],
+        "_geocoding_queries": [
+          "Gruyère, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "lac de la Gruyère, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Balade, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Roche, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Ramer, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Mêler, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Grimpez, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "dans-la-foret-de-galm-une-balade-parfaite-pour-les-familles-1171346",
+        "url": "https://www.laliberte.ch/articles/regions/lac/dans-la-foret-de-galm-une-balade-parfaite-pour-les-familles-1171346",
+        "name": "Dans La Foret De Galm Une Balade Parfaite Pour Les Familles",
+        "title": "En poussette jusqu’aux wallabies. Dans la forêt de Galm, une balade parfaite pour les familles",
+        "subtitle": "En poussette jusqu’aux wallabies.",
+        "mainTitle": "Dans la forêt de Galm, une balade parfaite pour les familles",
+        "description": "Une promenade facile, à l’ombre, sans circulation, avec une halte pique-nique dans un mini-zoo? Oui, la forêt de Galm est peut-être le paradis des familles.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 7,5 km",
+        "loop": true,
+        "difficulty": "Facile",
+        "duration": "Environ 2 heures",
+        "audience": "",
+        "access": "En voiture (ou en train via Lurtigen Dorf ou Salvenach Wilerstrasse)",
+        "startingPoint": "Parking en lisière de forêt, à proximité de l’entrée de Lurtigen",
+        "image": "https://mediasp.twassets.cloud/LL/2025/8/141_Foret_De_Galm_retouche_15_fb4adf4d91.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/8/141_Foret_De_Galm_retouche_15_fb4adf4d91.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [],
+        "_geocoding_queries": [
+          "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0833,
+          46.9667
+        ]
+      },
+      "properties": {
+        "id": "en-rollers-dans-le-jardin-potager-de-la-suisse-en-cotoyant-les-herons-1090580",
+        "url": "https://www.laliberte.ch/articles/regions/lac/en-rollers-dans-le-jardin-potager-de-la-suisse-en-cotoyant-les-herons-1090580",
+        "name": "En Rollers Dans Le Jardin Potager De La Suisse En Cotoyant Les Herons",
+        "title": "Une balade entre Ins et Sugiez. En rollers dans le jardin potager de la Suisse en côtoyant les hérons",
+        "subtitle": "Une balade entre Ins et Sugiez.",
+        "mainTitle": "En rollers dans le jardin potager de la Suisse en côtoyant les hérons",
+        "description": "Ressortez vos patins à roulettes! Un circuit de 8 kilomètres le long des cultures vous attend entre Ins et Sugiez.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 8 km",
+        "loop": false,
+        "difficulty": "Moyen",
+        "duration": "Environ 1 heure",
+        "audience": "",
+        "access": "En train ou en voiture",
+        "startingPoint": "Gare de Ins",
+        "image": "https://mediasp.twassets.cloud/LL/2025/7/Media_13_68de88df24.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/7/Media_13_68de88df24.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Ressortez",
+          "Sugiez",
+          "Suisse"
+        ],
+        "_geocoding_queries": [
+          "Sugiez, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Suisse, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Ressortez, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "un-peu-de-fraicheur-au-lac-de-seeberg-1085812",
+        "url": "https://www.laliberte.ch/articles/suisse/un-peu-de-fraicheur-au-lac-de-seeberg-1085812",
+        "name": "Un Peu De Fraicheur Au Lac De Seeberg",
+        "title": "Balade à plus de 1800 mètres d’altitude. Un peu de fraîcheur estivale au lac de Seeberg",
+        "subtitle": "Balade à plus de 1800 mètres d’altitude.",
+        "mainTitle": "Un peu de fraîcheur estivale au lac de Seeberg",
+        "description": "A plus de 1800 mètres d’altitude, ce lac à l’eau très claire, et très froide, vaut le détour. Comptez 5 kilomètres, aller et retour, pour la version la plus douce…",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 5 kilomètres",
+        "loop": false,
+        "difficulty": "Facile",
+        "duration": "Environ 1 h 30",
+        "audience": "Tout public",
+        "access": "",
+        "startingPoint": "Se parquer à Zweisimmen ou au Seebergsee Alphütte",
+        "image": "https://mediasp.twassets.cloud/LL/2025/7/baladelac_0414092feb.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/7/baladelac_0414092feb.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "lac de Seeberg",
+          "Comptez",
+          "Seeberg",
+          "Balade"
+        ],
+        "_geocoding_queries": [
+          "lac de Seeberg, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Seeberg, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Balade, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Comptez, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "a-sorens-a-la-decouverte-des-sculptures-en-bois-1083632",
+        "url": "https://www.laliberte.ch/articles/regions/gruyere/a-sorens-a-la-decouverte-des-sculptures-en-bois-1083632",
+        "name": "A Sorens A La Decouverte Des Sculptures En Bois",
+        "title": "Une balade pour petits et grands. A Sorens, à la découverte des sculptures en bois",
+        "subtitle": "Une balade pour petits et grands.",
+        "mainTitle": "A Sorens, à la découverte des sculptures en bois",
+        "description": "Une centaine d’œuvres jalonnent ce sentier composé de deux itinéraires de 2,4 ou 3,3 kilomètres. L’idéal avec des enfants.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Variable selon les itinéraires",
+        "loop": null,
+        "difficulty": "Très facile",
+        "duration": "Variable selon les itinéraires",
+        "audience": "Tout public",
+        "access": "",
+        "startingPoint": "Possibilité de se parquer à l’entrée de la forêt du Derbali",
+        "image": "https://mediasp.twassets.cloud/LL/2025/7/photobaladesculpture3_f32a949354.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/7/photobaladesculpture3_f32a949354.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Sorens"
+        ],
+        "_geocoding_queries": [
+          "Sorens, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "au-milieu-du-lac-de-schiffenen-entrevoir-la-vie-de-chateau-1075463",
+        "url": "https://www.laliberte.ch/articles/regions/lac/au-milieu-du-lac-de-schiffenen-entrevoir-la-vie-de-chateau-1075463",
+        "name": "Au Milieu Du Lac De Schiffenen Entrevoir La Vie De Chateau",
+        "title": "Balade en paddle au départ de Pensier. Au milieu du lac de Schiffenen, entrevoir la vie de château",
+        "subtitle": "Balade en paddle au départ de Pensier.",
+        "mainTitle": "Au milieu du lac de Schiffenen, entrevoir la vie de château",
+        "description": "Un peu moins de six kilomètres séparent la plage de Pensier du camping de Schiffenen. Votre paddle sera un poste d’observation idéal pour admirer les trois châteaux qui bordent le lac.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "11 kilomètres",
+        "loop": null,
+        "difficulty": "Moyen",
+        "duration": "Entre 3 et 4 heures",
+        "audience": "",
+        "access": "",
+        "startingPoint": "Plage de Pensier",
+        "image": "https://mediasp.twassets.cloud/LL/2025/7/IMG_5719_2a1c69f98d.png",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/7/IMG_5719_2a1c69f98d.png",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Pensier",
+          "Votre",
+          "lac de Schiffenen",
+          "Balade",
+          "Schiffenen"
+        ],
+        "_geocoding_queries": [
+          "Balade, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Pensier, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Schiffenen, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "lac de Schiffenen, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Votre, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "un-bol-dair-frais-en-periode-de-canicule-1070057",
+        "url": "https://www.laliberte.ch/articles/regions/sarine/un-bol-dair-frais-en-periode-de-canicule-1070057",
+        "name": "Un Bol Dair Frais En Periode De Canicule",
+        "title": "Balade dans les bois de Belle-Croix et de Moncor. Un bol d’air frais en période de canicule",
+        "subtitle": "Balade dans les bois de Belle-Croix et de Moncor.",
+        "mainTitle": "Un bol d’air frais en période de canicule",
+        "description": "A quelques minutes à pied de Villars-sur-Glâne et de Fribourg, les bois de Belle-Croix et de Moncor offrent des itinéraires pédestres variés et bien agréables lorsque le thermomètre s’emballe",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Variable selon les itinéraires",
+        "loop": null,
+        "difficulty": "Très facile",
+        "duration": "Variable selon les itinéraires",
+        "audience": "Tout public",
+        "access": "",
+        "startingPoint": "Possibilité de se parquer vers l’église de Villars-sur-Glâne",
+        "image": "https://mediasp.twassets.cloud/LL/2025/6/baladebellecroix_8a2fffc69d.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/6/baladebellecroix_8a2fffc69d.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Fribourg",
+          "Belle-Croix",
+          "Villars",
+          "Balade",
+          "Moncor"
+        ],
+        "_geocoding_queries": [
+          "Balade, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Belle-Croix, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Moncor, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Fribourg, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Villars, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1167,
+          46.9278
+        ]
+      },
+      "properties": {
+        "id": "pour-voir-leau-il-faut-grimper-dans-les-vignes-du-vully-1052418",
+        "url": "https://www.laliberte.ch/articles/regions/canton/pour-voir-leau-il-faut-grimper-dans-les-vignes-du-vully-1052418",
+        "name": "Pour Voir Leau Il Faut Grimper Dans Les Vignes Du Vully",
+        "title": "On a fait le tour du lac de Morat à vélo. Pour voir l’eau, il faut grimper dans les vignes du Vully",
+        "subtitle": "On a fait le tour du lac de Morat à vélo.",
+        "mainTitle": "Pour voir l’eau, il faut grimper dans les vignes du Vully",
+        "description": "Cette boucle de 28 kilomètres au départ de la ville médiévale vous permet de longer, en hauteur, le lac de Morat en passant par Vallamand, Lugnorre ou encore Sugiez. Mais attention, pour accéder à ce superbe panorama, il faut monter un peu.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "28 kilomètres",
+        "loop": true,
+        "difficulty": "Assez facile (si on ne se perd pas!)",
+        "duration": "1 h",
+        "audience": "Tout public",
+        "access": "",
+        "startingPoint": "Route du Ryf à Morat, au niveau de l’embarcadère de la LNM",
+        "image": "https://mediasp.twassets.cloud/LL/2025/6/IMG_4939_cdbe0d3d3f.png",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/6/IMG_4939_cdbe0d3d3f.png",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "lac de Morat à vélo",
+          "lac de Morat en passant par",
+          "Vallamand",
+          "Vully",
+          "Lugnorre",
+          "Morat",
+          "Sugiez"
+        ],
+        "_geocoding_queries": [
+          "lac de Morat à vélo, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Vully, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Morat, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "lac de Morat en passant par, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Vallamand, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Lugnorre, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Sugiez, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "la-haut-un-petit-saut-au-lac-retaud-1060641",
+        "url": "https://www.laliberte.ch/articles/regions/vaud/la-haut-un-petit-saut-au-lac-retaud-1060641",
+        "name": "La Haut Un Petit Saut Au Lac Retaud",
+        "title": "En balade du côté des Diablerets. Là-haut, un petit saut au lac Retaud",
+        "subtitle": "En balade du côté des Diablerets.",
+        "mainTitle": "Là-haut, un petit saut au lac Retaud",
+        "description": "Dans la région des Diablerets, cette petite randonnée de 6,5 kilomètres permet de découvrir deux lacs pour le prix d’un.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "6,5 kilomètres",
+        "loop": false,
+        "difficulty": "Moyen",
+        "duration": "Environ 2 h 30",
+        "audience": "Tout public",
+        "access": "",
+        "startingPoint": "Parking col du Pillon",
+        "image": "https://mediasp.twassets.cloud/LL/2025/6/baladelac_edcf9fe07b.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/6/baladelac_edcf9fe07b.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Retaud",
+          "Diablerets"
+        ],
+        "_geocoding_queries": [
+          "Retaud, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Diablerets, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "a-posat-un-grand-tour-par-la-nouvelle-passerelle-1052307",
+        "url": "https://www.laliberte.ch/articles/regions/sarine/a-posat-un-grand-tour-par-la-nouvelle-passerelle-1052307",
+        "name": "A Posat Un Grand Tour Par La Nouvelle Passerelle",
+        "title": "Balade. A Posat, un grand tour bucolique par la nouvelle passerelle",
+        "subtitle": "Balade.",
+        "mainTitle": "A Posat, un grand tour bucolique par la nouvelle passerelle",
+        "description": "Cette boucle d’environ 15 kilomètres au départ d’Ecuvillens emprunte la nouvelle passerelle construite par des apprentis à Posat.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "15 kilomètres",
+        "loop": true,
+        "difficulty": "Facile",
+        "duration": "Environ 3 h 40",
+        "audience": "Tout public",
+        "access": "",
+        "startingPoint": "Possibilité de se parquer à Ecuvillens",
+        "image": "https://mediasp.twassets.cloud/LL/2025/6/baladeposat1_77c1d6286f.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/6/baladeposat1_77c1d6286f.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Balade",
+          "Posat",
+          "Ecuvillens"
+        ],
+        "_geocoding_queries": [
+          "Balade, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Posat, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Ecuvillens, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "quil-est-agreable-de-se-perdre-a-velo-entre-fribourg-et-morat-1052319",
+        "url": "https://www.laliberte.ch/articles/regions/canton/quil-est-agreable-de-se-perdre-a-velo-entre-fribourg-et-morat-1052319",
+        "name": "Quil Est Agreable De Se Perdre A Velo Entre Fribourg Et Morat",
+        "title": "Une balade entre lacs et campagne. Qu’il est agréable de se perdre à vélo entre Fribourg et Morat!",
+        "subtitle": "Une balade entre lacs et campagne.",
+        "mainTitle": "Qu’il est agréable de se perdre à vélo entre Fribourg et Morat!",
+        "description": "Deux lacs, beaucoup de champs, des châteaux et une incartade dans le canton de Berne; voici quelques-uns des éléments qui balisent l’itinéraire cycliste plutôt varié reliant la capitale cantonale au chef-lieu du district du lac.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 30 km",
+        "loop": false,
+        "difficulty": "Facile",
+        "duration": "Entre 1h30 et 2h (sans assistance)",
+        "audience": "Sans assistance, pour cycliste en bonne condition physique, tout public si électrique (mais attention sur les routes cantonales)",
+        "access": "",
+        "startingPoint": "Cathédrale de Fribourg",
+        "image": "https://mediasp.twassets.cloud/LL/2025/5/IMG_4897_baf5364055.png",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/5/IMG_4897_baf5364055.png",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Morat",
+          "Fribourg",
+          "Berne"
+        ],
+        "_geocoding_queries": [
+          "Morat, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Fribourg, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Berne, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "dans-le-gantrisch-on-prend-le-temps-decouter-le-bruit-du-vent-1045547",
+        "url": "https://www.laliberte.ch/articles/suisse/dans-le-gantrisch-on-prend-le-temps-decouter-le-bruit-du-vent-1045547",
+        "name": "Dans Le Gantrisch On Prend Le Temps Decouter Le Bruit Du Vent",
+        "title": "Balade. Dans le Gantrisch, on prend le temps d’écouter le bruit du vent",
+        "subtitle": "Balade.",
+        "mainTitle": "Dans le Gantrisch, on prend le temps d’écouter le bruit du vent",
+        "description": "Cette boucle d’environ 5 kilomètres, dans le parc du Gantrisch dans le canton de Berne, est idyllique. Au menu? Divers panoramas et expériences à découvrir",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "5 kilomètres",
+        "loop": null,
+        "difficulty": "",
+        "duration": "",
+        "audience": "",
+        "access": "",
+        "startingPoint": "",
+        "image": "https://mediasp.twassets.cloud/LL/2025/5/baladegantrisch_a8b819fe2b.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/5/baladegantrisch_a8b819fe2b.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Berne",
+          "Balade",
+          "Divers",
+          "Gantrisch"
+        ],
+        "_geocoding_queries": [
+          "Balade, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Gantrisch, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Berne, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Divers, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.85,
+          46.85
+        ]
+      },
+      "properties": {
+        "id": "une-boucle-bucolique-qui-en-met-plein-la-vue-1040852",
+        "url": "https://www.laliberte.ch/articles/regions/broye/une-boucle-bucolique-qui-en-met-plein-la-vue-1040852",
+        "name": "Une Boucle Bucolique Qui En Met Plein La Vue",
+        "title": "En balade à Estavayer-le-Lac. Une boucle bucolique qui en met plein la vue",
+        "subtitle": "En balade à Estavayer-le-Lac.",
+        "mainTitle": "Une boucle bucolique qui en met plein la vue",
+        "description": "Ce parcours d’un peu plus de 13 kilomètres au départ de la Cité à la Rose est un vrai régal offrant divers points de vue.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "13,5 km",
+        "loop": true,
+        "difficulty": "Moyen",
+        "duration": "3 h",
+        "audience": "Tout public",
+        "access": "En voiture ou transports publics",
+        "startingPoint": "Gare d’Estavayer-le-Lac",
+        "image": "https://mediasp.twassets.cloud/LL/2025/5/photoestabalade3_fa39e14c6f.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/5/photoestabalade3_fa39e14c6f.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Estavayer-le-",
+          "Estavayer"
+        ],
+        "_geocoding_queries": [
+          "Estavayer-le-, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Estavayer, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "trois-itineraires-differents-pour-gravir-la-dent-de-jaman-1038950",
+        "url": "https://www.laliberte.ch/articles/regions/vaud/trois-itineraires-differents-pour-gravir-la-dent-de-jaman-1038950",
+        "name": "Trois Itineraires Differents Pour Gravir La Dent De Jaman",
+        "title": "Balade avec vue sur le Léman. Trois itinéraires différents pour gravir la Dent de Jaman",
+        "subtitle": "Balade avec vue sur le Léman.",
+        "mainTitle": "Trois itinéraires différents pour gravir la Dent de Jaman",
+        "description": "Pour cette randonnée située à la frontière valdo-fribourgeoise, trois parcours vous permettent d’atteindre un sommet bien connu des marcheurs. De plus, un train à crémaillère au départ de Montreux vous permet de ménager vos mollets.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Minimum 6 km",
+        "loop": null,
+        "difficulty": "Moyen",
+        "duration": "Entre 30 minutes et 2 h 30 l’aller",
+        "audience": "Marcheurs en bonne condition physique",
+        "access": "En voiture ou en train",
+        "startingPoint": "Les Cases/col de Jaman/gare de Jaman",
+        "image": "https://mediasp.twassets.cloud/LL/2025/5/20221005_170533_c72b6bda62.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/5/20221005_170533_c72b6bda62.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Léman",
+          "Balade",
+          "Jaman",
+          "Montreux",
+          "Trois"
+        ],
+        "_geocoding_queries": [
+          "Balade, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Léman, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Jaman, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Trois, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Montreux, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "direction-guggisberg-pour-gravir-des-escaliers-a-travers-champs-et-decouvrir-une-plateforme-panorami-1033215",
+        "url": "https://www.laliberte.ch/articles/regions/singine/direction-guggisberg-pour-gravir-des-escaliers-a-travers-champs-et-decouvrir-une-plateforme-panorami-1033215",
+        "name": "Direction Guggisberg Pour Gravir Des Escaliers A Travers Champs Et Decouvrir Une Plateforme Panorami",
+        "title": "Le long du Vreneli-Wäg. Direction Guggisberg pour gravir des escaliers à travers champs et découvrir une plateforme panoramique stupéfiante",
+        "subtitle": "Le long du Vreneli-Wäg.",
+        "mainTitle": "Direction Guggisberg pour gravir des escaliers à travers champs et découvrir une plateforme panoramique stupéfiante",
+        "description": "Collée au canton de Fribourg, la commune bernoise de Guggisberg offre un itinéraire coup de cœur relatant une célèbre histoire locale. Le long du circuit, vous trouverez notamment une plateforme panoramique et plusieurs places pour pique-niquer.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 5,3 km",
+        "loop": true,
+        "difficulty": "Moyen",
+        "duration": "Environ 2 heures",
+        "audience": "Tout public, mais ne convient pas aux poussettes",
+        "access": "En voiture ou car postal",
+        "startingPoint": "Village de Guggisberg",
+        "image": "https://mediasp.twassets.cloud/LL/2025/5/20250503_184742_61155337a1.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/5/20250503_184742_61155337a1.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Direction",
+          "Fribourg",
+          "Vreneli",
+          "Guggisberg",
+          "Collée"
+        ],
+        "_geocoding_queries": [
+          "Vreneli, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Direction, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Guggisberg, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Fribourg, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Collée, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "la-foret-sous-le-feuillage-printanier-1028734",
+        "url": "https://www.laliberte.ch/articles/regions/sarine/la-foret-sous-le-feuillage-printanier-1028734",
+        "name": "La Foret Sous Le Feuillage Printanier",
+        "title": "Entre Belfaux et Nierlet-les-Bois. La forêt, sous le feuillage printanier",
+        "subtitle": "Entre Belfaux et Nierlet-les-Bois.",
+        "mainTitle": "La forêt, sous le feuillage printanier",
+        "description": "Cap sur le bois de la Croix et la forêt de l’Etat pour une boucle de 3,5 km ponctuée d’un couvert forestier, parfaite pour une mini-balade en famille.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "",
+        "loop": null,
+        "difficulty": "",
+        "duration": "",
+        "audience": "",
+        "access": "",
+        "startingPoint": "",
+        "image": "https://mediasp.twassets.cloud/LL/2025/4/Whats_App_Image_2025_04_29_at_09_19_53_ec2022dad7.jpeg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/4/Whats_App_Image_2025_04_29_at_09_19_53_ec2022dad7.jpeg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Nierlet",
+          "Belfaux",
+          "Croix"
+        ],
+        "_geocoding_queries": [
+          "Nierlet, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Belfaux, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Croix, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "sur-le-dos-du-renard-au-fuchses-schwyberg-1022404",
+        "url": "https://www.laliberte.ch/articles/regions/singine/sur-le-dos-du-renard-au-fuchses-schwyberg-1022404",
+        "name": "Sur Le Dos Du Renard Au Fuchses Schwyberg",
+        "title": "En balade depuis le Lac-Noir. Sur le dos du renard, au Fuchses Schwyberg",
+        "subtitle": "En balade depuis le Lac-Noir.",
+        "mainTitle": "Sur le dos du renard, au Fuchses Schwyberg",
+        "description": "Une balade d’environ 10 km au départ de Schwarzsee, alias le Lac-Noir en Singine. Avec une vue sur les sommets tels le Kaiseregg ou le Schopfenspitz. Un bol d’air frais et en prime, de quoi se restaurer alentour.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "10 km",
+        "loop": true,
+        "difficulty": "Facile",
+        "duration": "Environ 3 h 45",
+        "audience": "Tout public",
+        "access": "En voiture ou transports publics jusqu’au parking. Puis à pied, en raquettes ou ski rando selon les conditions.",
+        "startingPoint": "Du parking de la Gypsera.",
+        "image": "https://mediasp.twassets.cloud/LL/2025/4/thumbnail_IMG_8424_1e6273b1a9.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/4/thumbnail_IMG_8424_1e6273b1a9.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Schopfenspitz",
+          "Fuchses",
+          "Schwarzsee",
+          "Kaiseregg",
+          "Schwyberg",
+          "Singine"
+        ],
+        "_geocoding_queries": [
+          "Fuchses, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Schwyberg, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Kaiseregg, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Schopfenspitz, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Singine, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Schwarzsee, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1167,
+          46.9278
+        ]
+      },
+      "properties": {
+        "id": "rendez-vous-avec-lhistoire-sur-les-hauts-de-morat-1016185",
+        "url": "https://www.laliberte.ch/articles/regions/lac/rendez-vous-avec-lhistoire-sur-les-hauts-de-morat-1016185",
+        "name": "Rendez Vous Avec Lhistoire Sur Les Hauts De Morat",
+        "title": "Balade. Rendez-vous avec l’histoire sur les hauts de Morat",
+        "subtitle": "Balade.",
+        "mainTitle": "Rendez-vous avec l’histoire sur les hauts de Morat",
+        "description": "Une promenade d’environ 4 kilomètres vers le Bois Domingue informe le promeneur sur la bataille de Morat de 1476. Avec en bonus un panorama magnifique sur le chef-lieu du district du Lac et le Mont Vully.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "4 km",
+        "loop": false,
+        "difficulty": "Facile",
+        "duration": "Une heure",
+        "audience": "",
+        "access": "Depuis la gare de Münchenwiler-Courgevaux",
+        "startingPoint": "",
+        "image": "https://mediasp.twassets.cloud/LL/2025/4/IMG_20250305_WA_0009_26431e081c.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/4/IMG_20250305_WA_0009_26431e081c.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Rendez",
+          "Morat",
+          "Balade",
+          "Vully",
+          "Domingue"
+        ],
+        "_geocoding_queries": [
+          "Balade, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Rendez, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Morat, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Domingue, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Vully, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "une-balade-entre-forets-et-prairies-dans-l-intyamon-1009178",
+        "url": "https://www.laliberte.ch/articles/regions/gruyere/une-balade-entre-forets-et-prairies-dans-l-intyamon-1009178",
+        "name": "Une Balade Entre Forets Et Prairies Dans L Intyamon",
+        "title": "Allières-Montbovon. Une balade entre forêts et prairies dans l’Intyamon",
+        "subtitle": "Allières-Montbovon.",
+        "mainTitle": "Une balade entre forêts et prairies dans l’Intyamon",
+        "description": "Une jolie balade de 1h30 vous attend au départ des Allières, hameau situé au fond de l’Intyamon, pour rejoindre Montbovon. Le coup de cœur de cet itinéraire? Le pont du Pontet, datant de la fin du XVIesiècle, qui enjambe L’Hongrin.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 4,6 kilomètres aller-retour",
+        "loop": false,
+        "difficulty": "Facile",
+        "duration": "Environ 1h30",
+        "audience": "Tout public",
+        "access": "En voiture ou en transport public",
+        "startingPoint": "Gare des Allières",
+        "image": "https://mediasp.twassets.cloud/LL/2025/3/20250322_154448_565d9a169f.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/3/20250322_154448_565d9a169f.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Hongrin",
+          "Allières-Montbovon",
+          "Montbovon",
+          "Intyamon",
+          "Allières",
+          "Pontet"
+        ],
+        "_geocoding_queries": [
+          "Allières-Montbovon, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Intyamon, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Allières, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Pontet, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Hongrin, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Montbovon, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "en-balade-a-heitenried-pour-apprecier-les-bords-de-la-singine-et-explorer-les-ruines-de-grasburg-992463",
+        "url": "https://www.laliberte.ch/articles/regions/singine/en-balade-a-heitenried-pour-apprecier-les-bords-de-la-singine-et-explorer-les-ruines-de-grasburg-992463",
+        "name": "En Balade A Heitenried Pour Apprecier Les Bords De La Singine Et Explorer Les Ruines De Grasburg",
+        "title": "Entre Fribourg et Berne. En balade à Heitenried, pour apprécier les bords de la Singine et explorer les ruines de Grasburg",
+        "subtitle": "Entre Fribourg et Berne.",
+        "mainTitle": "En balade à Heitenried, pour apprécier les bords de la Singine et explorer les ruines de Grasburg",
+        "description": "Pour cette nouvelle randonnée, nous vous emmenons à Heitenried, en Singine. Cette boucle de 8,5 kilomètres offre des paysages variés et est ponctuée de coins idéaux pour pique-niquer.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 8,5 kilomètres",
+        "loop": true,
+        "difficulty": "Moyen",
+        "duration": "2h30",
+        "audience": "",
+        "access": "En voiture ou en bus (arrêt Heitenried, St. Michael)",
+        "startingPoint": "Parking devant l’église d’Heitenried",
+        "image": "https://mediasp.twassets.cloud/LL/2025/3/20250308_123154_fa6087adb5.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/3/20250308_123154_fa6087adb5.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Fribourg",
+          "Grasburg",
+          "Berne",
+          "Heitenried",
+          "Singine"
+        ],
+        "_geocoding_queries": [
+          "Fribourg, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Singine, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Grasburg, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Berne, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Heitenried, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "a-solalex-ou-le-temps-sarrete-959955",
+        "url": "https://www.laliberte.ch/articles/regions/vaud/a-solalex-ou-le-temps-sarrete-959955",
+        "name": "A Solalex Ou Le Temps Sarrete",
+        "title": "Alpes vaudoises. En balade à Solalex où le temps s’arrête",
+        "subtitle": "Alpes vaudoises.",
+        "mainTitle": "En balade à Solalex où le temps s’arrête",
+        "description": "Allons traîner nos bottes de neige ou nos raquettes du côté des Alpes vaudoises, à Solalex, situé sur la commune de Bex. Cette balade d’environ 6 kilomètres aller-retour offre des paysages aussi paisibles que charmants.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 6,2 kilomètres aller-retour",
+        "loop": false,
+        "difficulty": "Facile",
+        "duration": "Environ 1 h 45 aller-retour",
+        "audience": "",
+        "access": "",
+        "startingPoint": "Parking de Cergnement",
+        "image": "https://mediasp.twassets.cloud/LL/2025/1/baladesolalex_b0b761eff6.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/1/baladesolalex_b0b761eff6.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Solalex",
+          "Allons",
+          "Alpes"
+        ],
+        "_geocoding_queries": [
+          "Solalex, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Alpes, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Allons, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1167,
+          46.9278
+        ]
+      },
+      "properties": {
+        "id": "une-viree-entre-nature-et-histoire-militaire-952497",
+        "url": "https://www.laliberte.ch/articles/regions/lac/une-viree-entre-nature-et-histoire-militaire-952497",
+        "name": "Une Viree Entre Nature Et Histoire Militaire",
+        "title": "Balade. Une virée entre nature et histoire militaire au Mont-Vully",
+        "subtitle": "Balade.",
+        "mainTitle": "Une virée entre nature et histoire militaire au Mont-Vully",
+        "description": "Une boucle d’environ 5 kilomètres au départ de Lugnorre offre des vues imprenables depuis le Mont-Vully sur les lacs de Morat et de Neuchâtel. L’occasion d’en apprendre davantage aussi sur les vestiges d’ouvrages d’infanterie présents sur le site.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 5 kilomètres",
+        "loop": true,
+        "difficulty": "Facile",
+        "duration": "Environ 1h30",
+        "audience": "Tout public",
+        "access": "",
+        "startingPoint": "Depuis Lugnorre ou sur le Mont-Vully",
+        "image": "https://mediasp.twassets.cloud/LL/2025/1/baladevully_d43c41d78d.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/1/baladevully_d43c41d78d.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Morat",
+          "Lugnorre",
+          "Balade",
+          "Vully",
+          "Neuch"
+        ],
+        "_geocoding_queries": [
+          "Balade, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Vully, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Morat, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Neuch, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Lugnorre, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "une-boucle-propice-a-la-meditation-de-debut-dannee-945880",
+        "url": "https://www.laliberte.ch/articles/regions/sarine/une-boucle-propice-a-la-meditation-de-debut-dannee-945880",
+        "name": "Une Boucle Propice A La Meditation De Debut Dannee",
+        "title": "Balade. Depuis Rossens, une boucle propice à la méditation de début d’année",
+        "subtitle": "Balade.",
+        "mainTitle": "Depuis Rossens, une boucle propice à la méditation de début d’année",
+        "description": "Ce tour d’environ 5 kilomètres et très accessible commence au parking de l’église de Rossens. Il vous transportera vers de beaux paysages, surtout lorsqu’ils sont recouverts de neige, jusqu’au barrage de Rossens.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 5 kilomètres",
+        "loop": true,
+        "difficulty": "Facile",
+        "duration": "Environ 1 h 30",
+        "audience": "",
+        "access": "",
+        "startingPoint": "Parking devant l’église de Rossens",
+        "image": "https://mediasp.twassets.cloud/LL/2025/1/baladerossensbis_343b115b99.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/1/baladerossensbis_343b115b99.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Balade",
+          "Rossens"
+        ],
+        "_geocoding_queries": [
+          "Balade, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Rossens, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "en-raquettes-a-bellegarde-la-plus-haute-commune-du-canton-946352",
+        "url": "https://www.laliberte.ch/articles/regions/gruyere/en-raquettes-a-bellegarde-la-plus-haute-commune-du-canton-946352",
+        "name": "En Raquettes A Bellegarde La Plus Haute Commune Du Canton",
+        "title": "Balade. En raquettes à Bellegarde, la plus haute commune du canton",
+        "subtitle": "Balade.",
+        "mainTitle": "En raquettes à Bellegarde, la plus haute commune du canton",
+        "description": "Amateur de raquettes? L’Oberbach Trail devrait vous plaire. La balade, sur la commune de Bellegarde, passe par deux versants et offre une belle vue sur les montagnes.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "4 km",
+        "loop": true,
+        "difficulty": "Moyen",
+        "duration": "2 h",
+        "audience": "Oui",
+        "access": "Parking de la station ou arrêt Jaun Bergbahnen",
+        "startingPoint": "Station de ski de Bellegarde",
+        "image": "https://mediasp.twassets.cloud/LL/2025/1/7dd4fd06_30b8_4312_8670_86bfe0afac7c_126b6e8a43.JPG",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2025/1/7dd4fd06_30b8_4312_8670_86bfe0afac7c_126b6e8a43.JPG",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Bellegarde",
+          "Amateur",
+          "Trail",
+          "Oberbach",
+          "Balade"
+        ],
+        "_geocoding_queries": [
+          "Bellegarde, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Balade, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Amateur, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Trail, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Oberbach, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "le-sentier-ritter-un-classique-en-ville-de-fribourg-937563",
+        "url": "https://www.laliberte.ch/articles/regions/le-sentier-ritter-un-classique-en-ville-de-fribourg-937563",
+        "name": "Le Sentier Ritter Un Classique En Ville De Fribourg",
+        "title": "Balade. Le sentier Ritter, un classique en ville de Fribourg",
+        "subtitle": "Balade.",
+        "mainTitle": "Le sentier Ritter, un classique en ville de Fribourg",
+        "description": "Un bol de nature en partant depuis la capitale cantonale? C’est possible grâce au sentier Ritter, aux paysages diversifiés.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "Il s’engage pour la nature et les oiseaux.«La qualité de l’environnement est essentielle aussi pour le bien-être des humains»",
+        "district": "Il s’engage pour la nature et les oiseaux.«La qualité de l’environnement est essentielle aussi pour le bien-être des humains»",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "",
+        "loop": null,
+        "difficulty": "",
+        "duration": "",
+        "audience": "",
+        "access": "",
+        "startingPoint": "",
+        "image": "https://mediasp.twassets.cloud/LL/2024/12/IMG_3471_8912a304e6.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2024/12/IMG_3471_8912a304e6.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Balade",
+          "Ritter",
+          "Fribourg"
+        ],
+        "_geocoding_queries": [
+          "Balade, Il s’engage pour la nature et les oiseaux.«La qualité de l’environnement est essentielle aussi pour le bien-être des humains», Fribourg, Suisse",
+          "Ritter, Il s’engage pour la nature et les oiseaux.«La qualité de l’environnement est essentielle aussi pour le bien-être des humains», Fribourg, Suisse",
+          "Fribourg, Il s’engage pour la nature et les oiseaux.«La qualité de l’environnement est essentielle aussi pour le bien-être des humains», Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "aux-paccots-un-petit-tour-vite-fait-bien-fait-931047",
+        "url": "https://www.laliberte.ch/articles/regions/veveyse/aux-paccots-un-petit-tour-vite-fait-bien-fait-931047",
+        "name": "Aux Paccots Un Petit Tour Vite Fait Bien Fait",
+        "title": "Balade. Aux Paccots, un petit tour vite fait bien fait",
+        "subtitle": "Balade.",
+        "mainTitle": "Aux Paccots, un petit tour vite fait bien fait",
+        "description": "Une balade d’environ 7 kilomètres offre une vue splendide notamment sur le Vanil des Artses. Plusieurs randonnées très accessibles sont disponibles dans cette région.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "Prévoyance professionnelle.La caisse de pension de l’Etat de Fribourg offre un sucre",
+        "district": "Prévoyance professionnelle.La caisse de pension de l’Etat de Fribourg offre un sucre",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 7 kilomètres",
+        "loop": false,
+        "difficulty": "Facile",
+        "duration": "Environ 1h45",
+        "audience": "Tout public",
+        "access": "",
+        "startingPoint": "Parking des remontées mécaniques",
+        "image": "https://mediasp.twassets.cloud/LL/2024/12/paccotsbalade1_b6c0d16a50.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2024/12/paccotsbalade1_b6c0d16a50.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Balade",
+          "Artses",
+          "Vanil",
+          "Paccots"
+        ],
+        "_geocoding_queries": [
+          "Balade, Prévoyance professionnelle.La caisse de pension de l’Etat de Fribourg offre un sucre, Fribourg, Suisse",
+          "Paccots, Prévoyance professionnelle.La caisse de pension de l’Etat de Fribourg offre un sucre, Fribourg, Suisse",
+          "Artses, Prévoyance professionnelle.La caisse de pension de l’Etat de Fribourg offre un sucre, Fribourg, Suisse",
+          "Vanil, Prévoyance professionnelle.La caisse de pension de l’Etat de Fribourg offre un sucre, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1564,
+          46.6183
+        ]
+      },
+      "properties": {
+        "id": "a-charmey-un-petit-tour-avant-un-saut-dans-les-bains-chauds-922620",
+        "url": "https://www.laliberte.ch/articles/regions/a-charmey-un-petit-tour-avant-un-saut-dans-les-bains-chauds-922620",
+        "name": "A Charmey Un Petit Tour Avant Un Saut Dans Les Bains Chauds",
+        "title": "Balade. A Charmey, un petit tour avant un saut dans les bains chauds",
+        "subtitle": "Balade.",
+        "mainTitle": "A Charmey, un petit tour avant un saut dans les bains chauds",
+        "description": "Une courte balade avant de profiter des bains chauds? Direction Charmey pour une boucle sympa d’environ une heure",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "Il s’engage pour la nature et les oiseaux.«La qualité de l’environnement est essentielle aussi pour le bien-être des humains»",
+        "district": "Il s’engage pour la nature et les oiseaux.«La qualité de l’environnement est essentielle aussi pour le bien-être des humains»",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 4 kilomètres",
+        "loop": true,
+        "difficulty": "Facile",
+        "duration": "Un peu plus d’une heure",
+        "audience": "Tout niveau",
+        "access": "",
+        "startingPoint": "Depuis le parking des bains",
+        "image": "https://mediasp.twassets.cloud/LL/2024/11/baladecharmey1_200e3bfcbb.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2024/11/baladecharmey1_200e3bfcbb.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Balade",
+          "Charmey",
+          "Direction"
+        ],
+        "_geocoding_queries": [
+          "Balade, Il s’engage pour la nature et les oiseaux.«La qualité de l’environnement est essentielle aussi pour le bien-être des humains», Fribourg, Suisse",
+          "Charmey, Il s’engage pour la nature et les oiseaux.«La qualité de l’environnement est essentielle aussi pour le bien-être des humains», Fribourg, Suisse",
+          "Direction, Il s’engage pour la nature et les oiseaux.«La qualité de l’environnement est essentielle aussi pour le bien-être des humains», Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "pittoresque-balade-en-sarine-du-cote-de-belfaux-920287",
+        "url": "https://www.laliberte.ch/articles/regions/pittoresque-balade-en-sarine-du-cote-de-belfaux-920287",
+        "name": "Pittoresque Balade En Sarine Du Cote De Belfaux",
+        "title": "Balade. Pittoresque balade en Sarine du côté de Belfaux",
+        "subtitle": "Balade.",
+        "mainTitle": "Pittoresque balade en Sarine du côté de Belfaux",
+        "description": "Cette boucle de plus de 6 kilomètres commence en forêt puis passe par Lossy avant de traverser le village de Belfaux.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "Il s’engage pour la nature et les oiseaux.«La qualité de l’environnement est essentielle aussi pour le bien-être des humains»",
+        "district": "Il s’engage pour la nature et les oiseaux.«La qualité de l’environnement est essentielle aussi pour le bien-être des humains»",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "6,6 kilomètres",
+        "loop": true,
+        "difficulty": "Facile",
+        "duration": "Environ 2 heures",
+        "audience": "Accessible à un large public",
+        "access": "Parking à disposition",
+        "startingPoint": "Dans la forêt, chemin du Brésil à Belfaux",
+        "image": "https://mediasp.twassets.cloud/LL/2024/11/baladebelfaux3_cacb94e5f0.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2024/11/baladebelfaux3_cacb94e5f0.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Pittoresque",
+          "Lossy",
+          "Sarine",
+          "Belfaux",
+          "Balade"
+        ],
+        "_geocoding_queries": [
+          "Balade, Il s’engage pour la nature et les oiseaux.«La qualité de l’environnement est essentielle aussi pour le bien-être des humains», Fribourg, Suisse",
+          "Pittoresque, Il s’engage pour la nature et les oiseaux.«La qualité de l’environnement est essentielle aussi pour le bien-être des humains», Fribourg, Suisse",
+          "Sarine, Il s’engage pour la nature et les oiseaux.«La qualité de l’environnement est essentielle aussi pour le bien-être des humains», Fribourg, Suisse",
+          "Belfaux, Il s’engage pour la nature et les oiseaux.«La qualité de l’environnement est essentielle aussi pour le bien-être des humains», Fribourg, Suisse",
+          "Lossy, Il s’engage pour la nature et les oiseaux.«La qualité de l’environnement est essentielle aussi pour le bien-être des humains», Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "a-la-decouverte-des-champignons-dans-la-broye-fribourgeoise-914966",
+        "url": "https://www.laliberte.ch/articles/regions/broye/a-la-decouverte-des-champignons-dans-la-broye-fribourgeoise-914966",
+        "name": "A La Decouverte Des Champignons Dans La Broye Fribourgeoise",
+        "title": "Balade. A la découverte des champignons dans la Broye fribourgeoise",
+        "subtitle": "Balade.",
+        "mainTitle": "A la découverte des champignons dans la Broye fribourgeoise",
+        "description": "Le sentier didactique de la réserve de la Chanéaz, à Montagny, permet de tout savoir sur les champignons. La boucle d’environ deux kilomètres est très accessible. Un régal!",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "2 kilomètres",
+        "loop": true,
+        "difficulty": "Facile",
+        "duration": "Environ une heure",
+        "audience": "Accessible à tous",
+        "access": "Parking à disposition",
+        "startingPoint": "Forêt de Chanéaz à Montagny",
+        "image": "https://mediasp.twassets.cloud/LL/2024/11/baladechampi4_53d6517e7f_deb6a3863d.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2024/11/baladechampi4_53d6517e7f_deb6a3863d.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Balade",
+          "Montagny",
+          "Broye",
+          "Chanéaz"
+        ],
+        "_geocoding_queries": [
+          "Balade, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Broye, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Montagny, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Chanéaz, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "narguer-le-brouillard-au-cousimbert-905685",
+        "url": "https://www.laliberte.ch/articles/regions/narguer-le-brouillard-au-cousimbert-905685",
+        "name": "Narguer Le Brouillard Au Cousimbert",
+        "title": "Balade. Narguer le brouillard au Cousimbert",
+        "subtitle": "Balade.",
+        "mainTitle": "Narguer le brouillard au Cousimbert",
+        "description": "Le Cousimbert, c’est comme la fondue, on connaît dans le canton de Fribourg! D’accord, mais il s’agit aussi et surtout d’un spot pour chercher le soleil en ces temps automnaux parfois difficiles.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "Il s’engage pour la nature et les oiseaux.«La qualité de l’environnement est essentielle aussi pour le bien-être des humains»",
+        "district": "Il s’engage pour la nature et les oiseaux.«La qualité de l’environnement est essentielle aussi pour le bien-être des humains»",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 7 kilomètres",
+        "loop": false,
+        "difficulty": "Facile",
+        "duration": "Environ deux heures",
+        "audience": "Tout public",
+        "access": "",
+        "startingPoint": "Depuis le parking de Crau",
+        "image": "https://mediasp.twassets.cloud/LL/2024/11/baladebrouillard1_3f5c4a359b.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2024/11/baladebrouillard1_3f5c4a359b.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Fribourg",
+          "Narguer",
+          "Balade",
+          "Cousimbert"
+        ],
+        "_geocoding_queries": [
+          "Balade, Il s’engage pour la nature et les oiseaux.«La qualité de l’environnement est essentielle aussi pour le bien-être des humains», Fribourg, Suisse",
+          "Narguer, Il s’engage pour la nature et les oiseaux.«La qualité de l’environnement est essentielle aussi pour le bien-être des humains», Fribourg, Suisse",
+          "Cousimbert, Il s’engage pour la nature et les oiseaux.«La qualité de l’environnement est essentielle aussi pour le bien-être des humains», Fribourg, Suisse",
+          "Fribourg, Il s’engage pour la nature et les oiseaux.«La qualité de l’environnement est essentielle aussi pour le bien-être des humains», Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "une-viree-dans-l-intyamon-autour-du-lac-de-lessoc-905407",
+        "url": "https://www.laliberte.ch/articles/regions/gruyere/une-viree-dans-l-intyamon-autour-du-lac-de-lessoc-905407",
+        "name": "Une Viree Dans L Intyamon Autour Du Lac De Lessoc",
+        "title": "Balade. Une virée dans l’Intyamon, autour du lac de Lessoc",
+        "subtitle": "Balade.",
+        "mainTitle": "Une virée dans l’Intyamon, autour du lac de Lessoc",
+        "description": "Le tour du lac de Lessoc compte 4 kilomètres et dure environ une heure et offre un joli itinéraire paisible.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 4 kilomètres",
+        "loop": true,
+        "difficulty": "Facile",
+        "duration": "Environ 1 heure",
+        "audience": "Tout public",
+        "access": "",
+        "startingPoint": "Depuis la gare de Montbovon",
+        "image": "https://mediasp.twassets.cloud/LL/2024/11/lessoc1_711d61caf8.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2024/11/lessoc1_711d61caf8.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "lac de Lessoc",
+          "Lessoc",
+          "Intyamon",
+          "Balade",
+          "lac de Lessoc compte"
+        ],
+        "_geocoding_queries": [
+          "Balade, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "lac de Lessoc, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Lessoc, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Intyamon, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "lac de Lessoc compte, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "plongee-ou-presque-au-coeur-des-marais-singinois-900324",
+        "url": "https://www.laliberte.ch/articles/regions/sarine/plongee-ou-presque-au-coeur-des-marais-singinois-900324",
+        "name": "Plongee Ou Presque Au Coeur Des Marais Singinois",
+        "title": "Balade. Plongée (ou presque) au cœur des marais singinois",
+        "subtitle": "Balade.",
+        "mainTitle": "Plongée (ou presque) au cœur des marais singinois",
+        "description": "La boucle d’un peu plus de 11 kilomètres au départ de Garmiswil permet de découvrir les marais puis le sentier des sens et des sons le long du lac de Schiffenen.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "11,4 kilomètres",
+        "loop": true,
+        "difficulty": "Facile",
+        "duration": "Environ 3 heures",
+        "audience": "Accessible à tous",
+        "access": "Parkings à disposition",
+        "startingPoint": "Garmiswil",
+        "image": "https://mediasp.twassets.cloud/LL/2024/11/baladegrandfey3_09867b1f64.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2024/11/baladegrandfey3_09867b1f64.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "lac de Schiffenen",
+          "Balade",
+          "Plongée",
+          "Schiffenen",
+          "Garmiswil"
+        ],
+        "_geocoding_queries": [
+          "Balade, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Plongée, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Schiffenen, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "lac de Schiffenen, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Garmiswil, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9167,
+          46.6944
+        ]
+      },
+      "properties": {
+        "id": "a-la-chasse-aux-escaliers-a-romont-894938",
+        "url": "https://www.laliberte.ch/articles/regions/glane/a-la-chasse-aux-escaliers-a-romont-894938",
+        "name": "A La Chasse Aux Escaliers A Romont",
+        "title": "Balade. A la chasse aux escaliers, à Romont",
+        "subtitle": "Balade.",
+        "mainTitle": "A la chasse aux escaliers, à Romont",
+        "description": "L’automne est propice à la découverte du chef-lieu glânois. La balade permet de tester l’efficacité de ses mollets à travers les nombreux escaliers de la cité.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "Environ 5 km",
+        "loop": true,
+        "difficulty": "Facile",
+        "duration": "Environ une heure trente",
+        "audience": "Accessible mais plusieurs escaliers",
+        "access": "",
+        "startingPoint": "Depuis la gare de Romont",
+        "image": "https://mediasp.twassets.cloud/LL/2024/10/Romontphotoprincipalebalade3_6b123a5ca0.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2024/10/Romontphotoprincipalebalade3_6b123a5ca0.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Balade",
+          "Romont"
+        ],
+        "_geocoding_queries": [
+          "Balade, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Romont, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9333,
+          46.75
+        ]
+      },
+      "properties": {
+        "id": "a-murist-grimpez-au-sommet-de-la-tour-de-la-moliere-894871",
+        "url": "https://www.laliberte.ch/articles/regions/broye/a-murist-grimpez-au-sommet-de-la-tour-de-la-moliere-894871",
+        "name": "A Murist Grimpez Au Sommet De La Tour De La Moliere",
+        "title": "Balade. A Murist, grimpez au sommet de la Tour de la Molière",
+        "subtitle": "Balade.",
+        "mainTitle": "A Murist, grimpez au sommet de la Tour de la Molière",
+        "description": "Deux boucles permettent, aux alentours de Murist, de rejoindre la tour de la Molière. Avec à la clé, une jolie place de pique-nique",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "district": "«La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "6,6 km ou 8 km",
+        "loop": true,
+        "difficulty": "Facile",
+        "duration": "",
+        "audience": "Tout public",
+        "access": "",
+        "startingPoint": "Parking près du terrain de football à Murist",
+        "image": "https://mediasp.twassets.cloud/LL/2024/10/tour_moliere_3b5b73efa4.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2024/10/tour_moliere_3b5b73efa4.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Molière",
+          "Murist",
+          "Balade"
+        ],
+        "_geocoding_queries": [
+          "Balade, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Molière, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse",
+          "Murist, «La procédure sera reprise en cas de faits nouveaux».Les auteurs des déprédations autour du siège d’Allseas n’ont pas été identifiés, Fribourg, Suisse"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1618,
+          46.8025
+        ]
+      },
+      "properties": {
+        "id": "allons-faire-un-tour-du-cote-du-niremont-881928",
+        "url": "https://www.laliberte.ch/articles/regions/veveyse/allons-faire-un-tour-du-cote-du-niremont-881928",
+        "name": "Allons Faire Un Tour Du Cote Du Niremont",
+        "title": "Balade. Allons faire un tour du côté du Niremont",
+        "subtitle": "Balade.",
+        "mainTitle": "Allons faire un tour du côté du Niremont",
+        "description": "Le tour du Niremont propose de magnifiques points de vue sur les montagnes fribourgeoises et vaudoises environnantes et des haltes bienvenues dans des lieux qui séduiront les familles.",
+        "author": "",
+        "date": "",
+        "published": "",
+        "category": "Prévoyance professionnelle.La caisse de pension de l’Etat de Fribourg offre un sucre",
+        "district": "Prévoyance professionnelle.La caisse de pension de l’Etat de Fribourg offre un sucre",
+        "region": "Fribourg",
+        "country": "Suisse",
+        "distance": "10 kilomètres",
+        "loop": true,
+        "difficulty": "Moyen",
+        "duration": "Environ 3 heures",
+        "audience": "Famille",
+        "access": "En voiture. En bus uniquement jusqu’à l’arrêt Rosalys aux Paccots",
+        "startingPoint": "Parking des Pueys. Traverser la route et entamer la montée en direction du Gros Niremont.",
+        "image": "https://mediasp.twassets.cloud/LL/2024/10/photobalade1_a3c073060a.jpg",
+        "thumbnail": "https://mediasp.twassets.cloud/LL/2024/10/photobalade1_a3c073060a.jpg",
+        "marker-color": "#2E75B6",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "_lieux_extraits": [
+          "Allons",
+          "Balade",
+          "Niremont",
+          "tour du Niremont"
+        ],
+        "_geocoding_queries": [
+          "Balade, Prévoyance professionnelle.La caisse de pension de l’Etat de Fribourg offre un sucre, Fribourg, Suisse",
+          "Allons, Prévoyance professionnelle.La caisse de pension de l’Etat de Fribourg offre un sucre, Fribourg, Suisse",
+          "Niremont, Prévoyance professionnelle.La caisse de pension de l’Etat de Fribourg offre un sucre, Fribourg, Suisse",
+          "tour du Niremont, Prévoyance professionnelle.La caisse de pension de l’Etat de Fribourg offre un sucre, Fribourg, Suisse"
+        ]
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-01-14T21:52:12.568911",
+    "total_articles": 58,
+    "source": "La Liberté - Les balades",
+    "generator": "Scraper v2.0"
+  }
+}
